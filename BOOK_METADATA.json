@@ -36,5 +36,19 @@
     "volume_i": "https://github.com/Kot141078/qubit-of-hope-volume-i",
     "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
     "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
+  },
+  "volume_number": 3,
+  "trilogy_order": 3,
+  "latest_release": "v1.0.1",
+  "previous_release": "v1.0.0",
+  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+  "release_date": "2026-05-03",
+  "release": {
+    "latest_release": "v1.0.1",
+    "previous_release": "v1.0.0",
+    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0",
+    "release_date": "2026-05-03"
   }
 }

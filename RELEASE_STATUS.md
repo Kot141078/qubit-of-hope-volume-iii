@@ -2,13 +2,17 @@
 
 Current repository state: formal public release.
 
-GitHub Release: v1.0.0.
+Latest GitHub Release: v1.0.1.
+
+Previous release: v1.0.0.
+
+Patch type: metadata-only / navigation-only / trilogy bridge alignment.
 
 Release date: 2026-05-03.
 
-Tag: v1.0.0.
-
 Rights: All rights reserved.
+
+No reading edition files or cover assets were changed in this patch.
 
 Public reading and personal local download are allowed.
 

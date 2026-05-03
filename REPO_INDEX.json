@@ -12,7 +12,12 @@
     "github_release_created": true,
     "tag": "v1.0.0",
     "release_date": "2026-05-03",
-    "release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0"
+    "release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0",
+    "latest_release": "v1.0.1",
+    "previous_release": "v1.0.0",
+    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0"
   },
   "rights": "RIGHTS.json",
   "directories": [
@@ -350,5 +355,12 @@
     ".gitignore is kept for parity with Volumes I and II and ignores OS clutter only.",
     "Repo-all excludes hashes/* to avoid recursive hash instability.",
     "Source-tree manifest uses original local source paths and is source provenance, not repo layout."
-  ]
+  ],
+  "volume_number": 3,
+  "trilogy_order": 3,
+  "latest_release": "v1.0.1",
+  "previous_release": "v1.0.0",
+  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+  "release_date": "2026-05-03",
+  "rights_file": "RIGHTS.json"
 }

@@ -17,8 +17,8 @@
     },
     {
       "path": "BOOK_METADATA.json",
-      "size_bytes": 1081,
-      "sha256": "6c666bba3d223949c366912cabef2e08239b9d514f1fb929fd8945e34ad8ceb3",
+      "size_bytes": 1704,
+      "sha256": "c9ea8073e96bfc9ef6e3a2a38d96cf62479139f41698015741f0a37d0b36831e",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
@@ -52,8 +52,8 @@
     },
     {
       "path": "MACHINE_ENTRY.md",
-      "size_bytes": 675,
-      "sha256": "678afcb43cda881a75accf9ac40ebf2f64025c7dfaff028f539355f1871e3cf1",
+      "size_bytes": 1195,
+      "sha256": "ac68e1312af0c2a7596af64de76181be2447949a5a136f89e49f9adf3511f04a",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -80,22 +80,22 @@
     },
     {
       "path": "RELEASE_STATUS.md",
-      "size_bytes": 604,
-      "sha256": "fd6591ecdb5ac8c5a92db511dcafb4b38993a6d4940b95797b2d95306a956051",
+      "size_bytes": 767,
+      "sha256": "e0b1f4daa8d77894e6564a5cad03238a9fcf12ad3c1514d6b77590dcb2f0d9ff",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "REPO_INDEX.json",
-      "size_bytes": 16904,
-      "sha256": "aed724e8d4a5570c4258b1f474ee03b2b9c236db15e055e88e00b52a0d41a043",
+      "size_bytes": 17506,
+      "sha256": "db3fe4782b043c024c1afd616ef89c4dfd76f9031bd0d5c794e46a981b79f934",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "REPO_INDEX.md",
-      "size_bytes": 3955,
-      "sha256": "17f201358b56a4cfbdd68be84daef1ae1ac4d88b888870a78a0d614fc5a8363c",
+      "size_bytes": 4475,
+      "sha256": "9ea269a1e07d8ea311091209849f60d56d0a92bcb157282e235409649a28c363",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -311,15 +311,15 @@
     },
     {
       "path": "llms-full.txt",
-      "size_bytes": 2685,
-      "sha256": "893fa6ba37c18e0d0dd09d4e42b60977ea9ee7fd9c357f72c32de2e04bd1609f",
+      "size_bytes": 3076,
+      "sha256": "c5f443f215a009f6e40030cebb12a03a54a3a01c3b6a69bcde9ad23bf1aee430",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "llms.txt",
-      "size_bytes": 614,
-      "sha256": "d0e4c92c9d357b5a3a34c6d25d8f931bdb464019bdd1c51dc9f70501d6c77bbe",
+      "size_bytes": 1005,
+      "sha256": "1c3516e01ec99c081788c13f731420d9901e944f9a377d9830be9ac2cd90cfdf",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
@@ -443,5 +443,25 @@
       "excluded_from_repo_all": true,
       "note": "hash file content omitted from MANIFEST.json to avoid recursive hash instability"
     }
-  ]
+  ],
+  "volume_number": 3,
+  "trilogy_order": 3,
+  "latest_release": "v1.0.1",
+  "previous_release": "v1.0.0",
+  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+  "release_date": "2026-05-03",
+  "related_repositories": {
+    "volume_i": "https://github.com/Kot141078/qubit-of-hope-volume-i",
+    "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+    "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
+  },
+  "release": {
+    "latest_release": "v1.0.1",
+    "previous_release": "v1.0.0",
+    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0",
+    "release_date": "2026-05-03"
+  },
+  "rights_file": "RIGHTS.json"
 }
