@@ -87,8 +87,8 @@
     },
     {
       "path": "REPO_INDEX.json",
-      "size_bytes": 16837,
-      "sha256": "1a3159caf482545d29d03403048dda59f9e07860f9b4349dea00f849de68091c",
+      "size_bytes": 16904,
+      "sha256": "aed724e8d4a5570c4258b1f474ee03b2b9c236db15e055e88e00b52a0d41a043",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
@@ -122,8 +122,8 @@
     },
     {
       "path": "editions/de/fb2/Kubit_der_Hoffnung_Band_III_de.fb2",
-      "size_bytes": 583855,
-      "sha256": "647030b7bba158b32f2ac6185758f2f8e64d2ba8212cee67f54b72d4dcceb423",
+      "size_bytes": 590311,
+      "sha256": "04fb32f53d2ce6c1a559b86e1c123d0412a76bea9cd74a36248c2f048434d164",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -150,8 +150,8 @@
     },
     {
       "path": "editions/en/fb2/Qubit_of_Hope_Volume_III_en.fb2",
-      "size_bytes": 600034,
-      "sha256": "acc43e388c2fa6241a486f62fb201cd7a95c125f8823022bad7d03c528af2ab5",
+      "size_bytes": 607572,
+      "sha256": "f330bbd0a2dfb2316f8780c7fb270a17121e16d4695ec796f68578262943ff25",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -178,8 +178,8 @@
     },
     {
       "path": "editions/es/fb2/El_cubit_de_la_esperanza_Tomo_III_es.fb2",
-      "size_bytes": 582168,
-      "sha256": "67f1201b269ee98a7812ca979fac93fbd615663b8475905bbc30b4560b44d23c",
+      "size_bytes": 588685,
+      "sha256": "2d242dacb742787d6e19e97749b3a06757de3d9ff7ac635346a34399c997a949",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -206,8 +206,8 @@
     },
     {
       "path": "editions/fr/fb2/Qubit_de_l_espoir_Tome_III_fr.fb2",
-      "size_bytes": 660487,
-      "sha256": "074631cb596a471f64485b0798f825bf3b343bbcc48603763e83af8d51bc9024",
+      "size_bytes": 668016,
+      "sha256": "cfb08526453698c9189b77a8972326f94383101d63f8939547aff2a4118b1748",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -234,8 +234,8 @@
     },
     {
       "path": "editions/nl/fb2/De_qubit_van_hoop_Deel_III_nl.fb2",
-      "size_bytes": 610827,
-      "sha256": "e0319a3b188953a5f25b971cc067e88a3961b0594d9455f6b6fb0711554583de",
+      "size_bytes": 618376,
+      "sha256": "829b1a3b42d8ed776ac315269d049f8173d161edf8c53b1447c15cdc9faf0124",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -262,8 +262,8 @@
     },
     {
       "path": "editions/ru/fb2/Kubit_Nadezhdy_Tom_III_ru.fb2",
-      "size_bytes": 879515,
-      "sha256": "a48e23dc0791b992affcd47acbf024e6b5fddc1a35307ca9c848223d6cf31d87",
+      "size_bytes": 886026,
+      "sha256": "e703edf993cbec52456c53dc15fdd5a85c8b26cdf009222a6d5756436a0896cf",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -290,8 +290,8 @@
     },
     {
       "path": "editions/zh-CN/fb2/Kubit_Nadezhdy_Tom_III_zh_CN.fb2",
-      "size_bytes": 530368,
-      "sha256": "eadfa432960825cba4423dbc4edc6baaa2f3931267f79e24a970b8a6fa795fba",
+      "size_bytes": 536886,
+      "sha256": "db191c0f017dc06ac947b255f72f52d5c70045679005b79131eff0f7f0f5d6bf",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },

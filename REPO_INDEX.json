@@ -7,11 +7,12 @@
   "title": "Qubit of Hope — Volume III",
   "author": "Ivan Kotov",
   "volume": 3,
-  "status": "assembled-publication-repository",
+  "status": "formal-public-release",
   "release": {
-    "github_release_created": false,
-    "intended_future_tag": "v1.0.0",
-    "assembly_date": "2026-05-03"
+    "github_release_created": true,
+    "tag": "v1.0.0",
+    "release_date": "2026-05-03",
+    "release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0"
   },
   "rights": "RIGHTS.json",
   "directories": [
