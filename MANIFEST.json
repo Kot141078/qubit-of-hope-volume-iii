@@ -17,43 +17,43 @@
     },
     {
       "path": "BOOK_METADATA.json",
-      "size_bytes": 1121,
-      "sha256": "b213128bb97eeecbc70cc0a509b36c6c3813806b8fa2a17e25ee0ea33eab1e7c",
+      "size_bytes": 1081,
+      "sha256": "6c666bba3d223949c366912cabef2e08239b9d514f1fb929fd8945e34ad8ceb3",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "CITATION.cff",
-      "size_bytes": 916,
-      "sha256": "fdb9fedab1c5be46ad8773e70448fe9d4f14880fe5af96e6a560d531f3a96c0f",
+      "size_bytes": 894,
+      "sha256": "a43346218b0b1c63e5f486735a0b4e1816da1067c5e3e7a96bfe1e9912ebfc4a",
       "role": "human-or-entry-file",
       "media_type": "text/yaml"
     },
     {
       "path": "DOWNLOADS.md",
-      "size_bytes": 2563,
-      "sha256": "19a6bd3aa9a14887a30b03cacfaec4668229d1c9a37766012913e69732c15a36",
+      "size_bytes": 2536,
+      "sha256": "217a8f10d89cf85280b83bfe94c22b158d360033089269431aa73f322aa6ce41",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "EDITIONS_MATRIX.json",
-      "size_bytes": 14738,
-      "sha256": "56f970869e293cf54fb5c0557f864db6fa4ccf7ef6d39be29c11e88ad8d23b39",
+      "size_bytes": 14449,
+      "sha256": "da0f5b81cac434c7ded01b150243949c08b7fa97c647f761257f2f29499ceb91",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "LICENSE.txt",
-      "size_bytes": 605,
-      "sha256": "f9c3ccfc4191b6f6df8439ebdf0e685122657b0da19be33f3f383e3f2b70f08b",
+      "size_bytes": 589,
+      "sha256": "482732c1357ed074098492c209f5f3d1e4b7e48c9387852f83e65fb3c4949163",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "MACHINE_ENTRY.md",
-      "size_bytes": 725,
-      "sha256": "c41bbe810eb32538538240f14fcbaf5378d98aa4d1f2c6140b0b6603c4103e29",
+      "size_bytes": 697,
+      "sha256": "78cff34eadd77212f49b4c1d87eb2cb09c225f25d5af62e7f8a2d8ab2235c523",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -66,43 +66,43 @@
     },
     {
       "path": "NOTICE.txt",
-      "size_bytes": 377,
-      "sha256": "819ab3f1e3ac85cb612a0189019a83a6b8924e12363599953e5c0ff95049e671",
+      "size_bytes": 365,
+      "sha256": "e0fa763d1f0246229b40a55aa0f4868a924750e8e92330cea62e14c6cab57949",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "README.md",
-      "size_bytes": 3495,
-      "sha256": "ea424f923d8b58b19b2b3c1adee87521716ed5799a43c0a1eb0d95fc0d0fa31c",
+      "size_bytes": 3435,
+      "sha256": "0a18ef6cc2bf71364491177d51ac635eb0386eb0494790850b98ad2e7092e761",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "RELEASE_STATUS.md",
-      "size_bytes": 249,
-      "sha256": "a98fa5c54463f918369a2a21007a2d857fd100621931009623a33057a4fa5dc4",
+      "size_bytes": 238,
+      "sha256": "4beb1045ff1ce349aa4ad84ed704b08bee97b214e087c5fc3292253c476448ba",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "REPO_INDEX.json",
-      "size_bytes": 17190,
-      "sha256": "dee56ef8ee66b2de1eaf0d1b9292ab0159dbee2f7e9294ec5edfcf94d8331a0f",
+      "size_bytes": 16837,
+      "sha256": "1a3159caf482545d29d03403048dda59f9e07860f9b4349dea00f849de68091c",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "REPO_INDEX.md",
-      "size_bytes": 4013,
-      "sha256": "965748cdcc29f8974e3ee6570a3ec08e7ca71ce174aa844b212912e406c5f6b0",
+      "size_bytes": 3955,
+      "sha256": "17f201358b56a4cfbdd68be84daef1ae1ac4d88b888870a78a0d614fc5a8363c",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "RIGHTS.json",
-      "size_bytes": 927,
-      "sha256": "9cf26a8ccd0756c9d96457f64abd49b6e8b0847d50e0132b9376f6a4beb264eb",
+      "size_bytes": 903,
+      "sha256": "dc6ff2c112be5ba0049771013281f1af1c302d4b2ff80ac8e78b85216faaee00",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
@@ -311,99 +311,99 @@
     },
     {
       "path": "llms-full.txt",
-      "size_bytes": 2748,
-      "sha256": "7615b6fe66f08a313230e166aa67e68c8ebb3a7f44720fefb3baf8ccbdacbdce",
+      "size_bytes": 2685,
+      "sha256": "893fa6ba37c18e0d0dd09d4e42b60977ea9ee7fd9c357f72c32de2e04bd1609f",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "llms.txt",
-      "size_bytes": 637,
-      "sha256": "df46d390071d6129d6726338e336223555b8dcf76da3900215b7d9b96cb63c47",
+      "size_bytes": 614,
+      "sha256": "d0e4c92c9d357b5a3a34c6d25d8f931bdb464019bdd1c51dc9f70501d6c77bbe",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "metadata/ASSET_MAP.json",
-      "size_bytes": 16081,
-      "sha256": "2cfc00c96c73c278c1c21635548076e7ea34e47697277ec286cba83834eb2e60",
+      "size_bytes": 15777,
+      "sha256": "c53ad14c4b50d3715e2c3772a31a79e7ddf43bba15730b3a542638888c2a7ed2",
       "role": "supporting-metadata",
       "media_type": "application/json"
     },
     {
       "path": "metadata/ASSET_MAP.md",
-      "size_bytes": 1902,
-      "sha256": "8aa4d15d2265fd6b3821cdde21ffa2be89bcdcd412a37f44ea1669cddfcbf446",
+      "size_bytes": 1862,
+      "sha256": "a73abe49eee102858c8d77a61db94d3b751f1575057d428a367c187652a72c28",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/COVER_METADATA.json",
-      "size_bytes": 577,
-      "sha256": "616dffc3e71ac721d575e32557bb1a75748f02534fa9733af86589cbe2ecf6bd",
+      "size_bytes": 566,
+      "sha256": "2a2f4c4b2c725b9c0351351417a4e955e4c7b117f0645e151151cebe981cdbdc",
       "role": "supporting-metadata",
       "media_type": "application/json"
     },
     {
       "path": "metadata/EDITION_FILES.json",
-      "size_bytes": 14738,
-      "sha256": "56f970869e293cf54fb5c0557f864db6fa4ccf7ef6d39be29c11e88ad8d23b39",
+      "size_bytes": 14449,
+      "sha256": "da0f5b81cac434c7ded01b150243949c08b7fa97c647f761257f2f29499ceb91",
       "role": "supporting-metadata",
       "media_type": "application/json"
     },
     {
       "path": "metadata/HUMAN_ENTRY.md",
-      "size_bytes": 307,
-      "sha256": "051aefa0febf0dc4a160ec62db7542c4975ba2839f10f347d371d139b985d4df",
+      "size_bytes": 300,
+      "sha256": "684fc247c75e36fd38e23d9127e6fff432a8a66098f231628011ddc879cde2fd",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/NAMING_DRIFT_REPORT.md",
-      "size_bytes": 460,
-      "sha256": "8449a6571781c4597d1a0c9b996559037914510633d6f5875bb644a1301f251d",
+      "size_bytes": 447,
+      "sha256": "b92a2488e78a6a52dfa28a0c85a48cc111d9f9c493442f7d86b8318bfeda3bd4",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/PUBLICATION_LOG.md",
-      "size_bytes": 331,
-      "sha256": "0fc53bc272f00d0109b45e4c8f8795db9d3438c2956a12086d0bfc74b1ace75b",
+      "size_bytes": 325,
+      "sha256": "f59b1231f439a5df4bda2cf2beb365484fda98bc61a66c5c530b8a4ee0a4aef5",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/RELEASE_MATRIX_VOLUME_III.md",
-      "size_bytes": 2009,
-      "sha256": "af48a8639b6ad5af4c2d5f0122f176b782c3d5da6abbe09f65c96b3ba8f48041",
+      "size_bytes": 1996,
+      "sha256": "9ceb2c0465577c20d791197576f37b8bb8ef2cbadccce3730cab7f7c1072f385",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/RELEASE_STATUS.json",
-      "size_bytes": 1639,
-      "sha256": "4882799392012673abc3b3914258f23cabbfae9ef2107ab953540956721a2a26",
+      "size_bytes": 1560,
+      "sha256": "18e2898d88c5918056e17c48fdb6e70eadc3065b2f0753db98f0e3e39a2cdc3d",
       "role": "supporting-metadata",
       "media_type": "application/json"
     },
     {
       "path": "metadata/SCHEMA_NOTES.md",
-      "size_bytes": 1134,
-      "sha256": "07a69a5e17b869ae9db163620e4cc43031be921e2029d0a153f5ae650e9f6237",
+      "size_bytes": 1118,
+      "sha256": "8182297876ff53bbf2821ec5582a048e568ba72f4929969a61e4fbaa9f53d106",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/SOURCE_PROVENANCE.md",
-      "size_bytes": 472,
-      "sha256": "c88c3d01fc3bb053bd331f1bd144a20ae45a21feaf6fb7ced61ba23c74137e14",
+      "size_bytes": 465,
+      "sha256": "6a2a4d1a01aaed2e0c94489d84632f439019db46883cac22bfcc5f31737a1db1",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/TRILOGY_LINKS.json",
-      "size_bytes": 593,
-      "sha256": "0c3488080a718841390d59a3702d7165aa6383e857d6842d021db4e1a8a498d2",
+      "size_bytes": 571,
+      "sha256": "63d78e52575cbeb6efeb3e6a985e0df1cf0a6a80f59e89ffbc9be1b9dd0ec193",
       "role": "supporting-metadata",
       "media_type": "application/json"
     },
