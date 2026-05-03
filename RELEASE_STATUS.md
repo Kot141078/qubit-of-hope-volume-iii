@@ -1,11 +1,20 @@
 # Release Status
 
-Current repository state: assembled publication repository.
+Current repository state: formal public release.
 
-Assembly date: 2026-05-03.
+GitHub Release: v1.0.0.
 
-GitHub Release: not created in this iteration.
+Release date: 2026-05-03.
 
-Intended future release tag: `v1.0.0`, pending human review.
+Tag: v1.0.0.
 
-All rights reserved.
+Rights: All rights reserved.
+
+Public reading and personal local download are allowed.
+
+Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+
+This is not open source, not Creative Commons, and not public domain.
+
+Repository:
+https://github.com/Kot141078/qubit-of-hope-volume-iii

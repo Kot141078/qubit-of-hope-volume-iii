@@ -80,8 +80,8 @@
     },
     {
       "path": "RELEASE_STATUS.md",
-      "size_bytes": 238,
-      "sha256": "4beb1045ff1ce349aa4ad84ed704b08bee97b214e087c5fc3292253c476448ba",
+      "size_bytes": 604,
+      "sha256": "fd6591ecdb5ac8c5a92db511dcafb4b38993a6d4940b95797b2d95306a956051",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
