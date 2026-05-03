@@ -1,0 +1,14 @@
+Qubit of Hope — Volume III
+Copyright (c) 2026 Ivan Kotov
+All rights reserved.
+
+This is not open source.
+This is not Creative Commons.
+This is not public domain.
+
+This repository is published for public reading and preservation.
+Public reading and personal local download are allowed.
+
+Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+
+See RIGHTS.json for machine-readable rights metadata.

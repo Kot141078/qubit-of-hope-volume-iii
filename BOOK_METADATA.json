@@ -1,0 +1,40 @@
+{
+  "title": "Qubit of Hope — Volume III",
+  "canonical_titles": {
+    "ru": "Кубит Надежды. Том III",
+    "en": "Qubit of Hope. Volume III",
+    "fr": "Qubit de l’espoir. Tome III",
+    "es": "El cúbit de la esperanza. Tomo III",
+    "de": "Qubit der Hoffnung. Band III",
+    "nl": "De qubit van hoop. Deel III",
+    "zh-CN": "希望量子比特。第三卷"
+  },
+  "author": "Ivan Kotov",
+  "volume": 3,
+  "series": "Qubit of Hope",
+  "publication_year": 2026,
+  "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii",
+  "rights": "All rights reserved",
+  "rights_file": "RIGHTS.json",
+  "languages": [
+    "ru",
+    "en",
+    "fr",
+    "es",
+    "de",
+    "nl",
+    "zh-CN"
+  ],
+  "formats": [
+    "md",
+    "pdf",
+    "epub",
+    "fb2"
+  ],
+  "cover": "covers/Image 3 мая 2026 г..png",
+  "related_repositories": {
+    "volume_i": "https://github.com/Kot141078/qubit-of-hope-volume-i",
+    "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+    "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
+  }
+}

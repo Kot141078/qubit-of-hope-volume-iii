@@ -1,0 +1,19 @@
+# Qubit of Hope — Volume III
+
+Author: Ivan Kotov
+Volume: 3
+Repository: https://github.com/Kot141078/qubit-of-hope-volume-iii
+Rights: All rights reserved. Not open licensed. Public reading and personal local download only.
+
+Machine entry: MACHINE_ENTRY.md
+Metadata: BOOK_METADATA.json, EDITIONS_MATRIX.json, MANIFEST.json, REPO_INDEX.json, RIGHTS.json
+Supporting metadata: metadata/ASSET_MAP.json, metadata/EDITION_FILES.json, metadata/TRILOGY_LINKS.json, metadata/COVER_METADATA.json
+
+Edition folders:
+- editions/ru/
+- editions/en/
+- editions/fr/
+- editions/es/
+- editions/de/
+- editions/nl/
+- editions/zh-CN/

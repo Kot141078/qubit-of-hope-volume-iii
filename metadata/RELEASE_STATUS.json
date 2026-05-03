@@ -1,0 +1,79 @@
+[
+  {
+    "language": "ru",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  },
+  {
+    "language": "en",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  },
+  {
+    "language": "fr",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  },
+  {
+    "language": "es",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  },
+  {
+    "language": "de",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  },
+  {
+    "language": "nl",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  },
+  {
+    "language": "zh-CN",
+    "status": "complete",
+    "formats": [
+      "md",
+      "pdf",
+      "epub",
+      "fb2"
+    ],
+    "notes": "assembled from required Volume III source assets without editing book text"
+  }
+]

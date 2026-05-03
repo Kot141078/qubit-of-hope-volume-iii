@@ -1,0 +1,440 @@
+{
+  "generated_at": "2026-05-03",
+  "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii",
+  "title": "Qubit of Hope — Volume III",
+  "author": "Ivan Kotov",
+  "rights": "All rights reserved",
+  "source_root": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том",
+  "note": "repo-all excludes hashes/*; source-tree manifest records original source paths, not repository paths; MANIFEST.json and hash files omit self-referential hashes where needed.",
+  "file_count_including_hash_manifests": 60,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size_bytes": 20,
+      "sha256": "9e488dc913a3dc5261e49e0efd135fcbf91d5d84cbd8d41fc2c132ed55f749fd",
+      "role": "human-or-entry-file",
+      "media_type": "application/octet-stream"
+    },
+    {
+      "path": "BOOK_METADATA.json",
+      "size_bytes": 1121,
+      "sha256": "b213128bb97eeecbc70cc0a509b36c6c3813806b8fa2a17e25ee0ea33eab1e7c",
+      "role": "machine-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "CITATION.cff",
+      "size_bytes": 916,
+      "sha256": "fdb9fedab1c5be46ad8773e70448fe9d4f14880fe5af96e6a560d531f3a96c0f",
+      "role": "human-or-entry-file",
+      "media_type": "text/yaml"
+    },
+    {
+      "path": "DOWNLOADS.md",
+      "size_bytes": 2236,
+      "sha256": "7af09f3c785e59dad5de47a6f38ebc7acf7a3005fb62dd392eb8faf09db11b59",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "EDITIONS_MATRIX.json",
+      "size_bytes": 14738,
+      "sha256": "56f970869e293cf54fb5c0557f864db6fa4ccf7ef6d39be29c11e88ad8d23b39",
+      "role": "machine-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "LICENSE.txt",
+      "size_bytes": 601,
+      "sha256": "aeadd42647fcbb4dff1f573cc7600fca393c7c35553325e7dd894d50f4746533",
+      "role": "human-or-entry-file",
+      "media_type": "text/plain"
+    },
+    {
+      "path": "MACHINE_ENTRY.md",
+      "size_bytes": 689,
+      "sha256": "1d2140bb8bdea96cb04ad24379dc608639226ddc9ee06e0d7ff0c13ee7ef2c1b",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "NOTICE.txt",
+      "size_bytes": 369,
+      "sha256": "5bda0d3d6b66ce1150f95866806c1c1ef2b7b37d8b23d02f8f31b1e983815176",
+      "role": "human-or-entry-file",
+      "media_type": "text/plain"
+    },
+    {
+      "path": "README.md",
+      "size_bytes": 3410,
+      "sha256": "5b338e32e61711d8ddd28ea7ff51e2f06a828ff19301dba59c3e87b5eacc5e04",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "RELEASE_STATUS.md",
+      "size_bytes": 249,
+      "sha256": "a98fa5c54463f918369a2a21007a2d857fd100621931009623a33057a4fa5dc4",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "REPO_INDEX.json",
+      "size_bytes": 17082,
+      "sha256": "391c8a251c61e2ae2dd9478dd9e09ec1f62562607cd165cb7411acf4f3ef1e91",
+      "role": "machine-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "REPO_INDEX.md",
+      "size_bytes": 3941,
+      "sha256": "7ee806ebe415b979ec0dba1ead9dc57fefd7fd03de493885cb6688827adeee69",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "RIGHTS.json",
+      "size_bytes": 927,
+      "sha256": "9cf26a8ccd0756c9d96457f64abd49b6e8b0847d50e0132b9376f6a4beb264eb",
+      "role": "machine-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "covers/Image 3 мая 2026 г..png",
+      "size_bytes": 2670826,
+      "sha256": "96b5bcda1c4c094bdfc9f5376ea9b60201e29a2697d87d63f218cd5e9eb7266d",
+      "role": "cover",
+      "media_type": "image/png"
+    },
+    {
+      "path": "editions/de/epub/Kubit_der_Hoffnung_Band_III_de.epub",
+      "size_bytes": 239305,
+      "sha256": "8fe9c17b2fdd11d11ca1c12973cf88f909c56628b8731611f90b6c11ba4a8ec9",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/de/fb2/Kubit_der_Hoffnung_Band_III_de.fb2",
+      "size_bytes": 583855,
+      "sha256": "647030b7bba158b32f2ac6185758f2f8e64d2ba8212cee67f54b72d4dcceb423",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/de/md/Kubit_der_Hoffnung_Band_III_de.md",
+      "size_bytes": 526662,
+      "sha256": "c08de3f637c09cd3c9733435fb8b571e73fab2d682bb3b700344322f466e3fcd",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/de/pdf/Kubit_der_Hoffnung_Band_III_de.pdf",
+      "size_bytes": 621187,
+      "sha256": "614e652684555671849148e43b2250c0eecb5a1586fc90c17a89f532052e0bf2",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "editions/en/epub/Qubit_of_Hope_Volume_III_en.epub",
+      "size_bytes": 221137,
+      "sha256": "ed1bebeea5a41ec7aac62f32ac4c40c5d95c6ee2ae27fd3e4d7ed9e77c869b8d",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/en/fb2/Qubit_of_Hope_Volume_III_en.fb2",
+      "size_bytes": 600034,
+      "sha256": "acc43e388c2fa6241a486f62fb201cd7a95c125f8823022bad7d03c528af2ab5",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/en/md/Qubit_of_Hope_Volume_III_en.md",
+      "size_bytes": 495903,
+      "sha256": "d64837d90e285d40d2b5b05d1245e2116fc8457445c686b029b5974d4ed56c64",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/en/pdf/Qubit_of_Hope_Volume_III_en.pdf",
+      "size_bytes": 709760,
+      "sha256": "47d5387dded10a411e1f429985ad53b9790f4baf65b68654ffa5dbe749966e0a",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "editions/es/epub/El_cubit_de_la_esperanza_Tomo_III_es.epub",
+      "size_bytes": 227251,
+      "sha256": "43a24eea1a98bcaf43931d0eb3a0d2795bf7ebe8974c7c7287a4432afbcd7c21",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/es/fb2/El_cubit_de_la_esperanza_Tomo_III_es.fb2",
+      "size_bytes": 582168,
+      "sha256": "67f1201b269ee98a7812ca979fac93fbd615663b8475905bbc30b4560b44d23c",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/es/md/El_cubit_de_la_esperanza_Tomo_III_es.md",
+      "size_bytes": 498914,
+      "sha256": "e6cc91ee7650eb7c5a0c7efd463e3c43aad8981871779227da6c5bb40ac40b15",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/es/pdf/El_cubit_de_la_esperanza_Tomo_III_es.pdf",
+      "size_bytes": 732999,
+      "sha256": "154f8f282a67acc1b3bf190c751647d904fa050d7352821a1068ccc2c1106af9",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "editions/fr/epub/Qubit_de_l_espoir_Tome_III_fr.epub",
+      "size_bytes": 238796,
+      "sha256": "b6c2037fe317269f1083daa92ad606f4ac77bed07bbef51caf49c40da64fa92c",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/fr/fb2/Qubit_de_l_espoir_Tome_III_fr.fb2",
+      "size_bytes": 660487,
+      "sha256": "074631cb596a471f64485b0798f825bf3b343bbcc48603763e83af8d51bc9024",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/fr/md/Qubit_de_l_espoir_Tome_III_fr.md",
+      "size_bytes": 545476,
+      "sha256": "d7b3866b1348911412f2d22c4fe0dba807a3fa11046496fa47fbcc9db70bab38",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/fr/pdf/Qubit_de_l_espoir_Tome_III_fr.pdf",
+      "size_bytes": 983615,
+      "sha256": "689749605af57059a580c9ace7b7f0e5fc1c4577c311940478776337298f1436",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "editions/nl/epub/De_qubit_van_hoop_Deel_III_nl.epub",
+      "size_bytes": 227248,
+      "sha256": "6a8ac49690ccb0f0e3aad01e4258e9c2bec749b7976b02eb5ac85019ee6d3f1f",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/nl/fb2/De_qubit_van_hoop_Deel_III_nl.fb2",
+      "size_bytes": 610827,
+      "sha256": "e0319a3b188953a5f25b971cc067e88a3961b0594d9455f6b6fb0711554583de",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/nl/md/De_qubit_van_hoop_Deel_III_nl.md",
+      "size_bytes": 506480,
+      "sha256": "58899007da6ea0ddfe392ffece9db65fb6e13af6207cf28a33cef6c86c97859e",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/nl/pdf/De_qubit_van_hoop_Deel_III_nl.pdf",
+      "size_bytes": 596103,
+      "sha256": "ccf6d145d79fde8a29cd827825541308f42b8cc9463ae84e0ea7ec0a81d15f76",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "editions/ru/epub/Kubit_Nadezhdy_Tom_III_ru.epub",
+      "size_bytes": 270493,
+      "sha256": "1c9fa1dc7e1d1a91cd5e70a886149436d1da51c84ee76b80321fd619db03561e",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/ru/fb2/Kubit_Nadezhdy_Tom_III_ru.fb2",
+      "size_bytes": 879515,
+      "sha256": "a48e23dc0791b992affcd47acbf024e6b5fddc1a35307ca9c848223d6cf31d87",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/ru/md/Kubit_Nadezhdy_Tom_III_ru.md",
+      "size_bytes": 783784,
+      "sha256": "1a94dd4573b0bc8772b92376ab57cf0f570415b3db737e45bbb38bf5ad556233",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/ru/pdf/Kubit_Nadezhdy_Tom_III_ru.pdf",
+      "size_bytes": 788462,
+      "sha256": "f0d48397ad309931f81b19061084c50027471ff74b03ff0326ab7c0d8e2d3cd1",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "editions/zh-CN/epub/Kubit_Nadezhdy_Tom_III_zh_CN.epub",
+      "size_bytes": 232907,
+      "sha256": "0dfc4fd6155c065cd7d7304ff0deeecf06916c1962ee92801970be413611f7dd",
+      "role": "edition",
+      "media_type": "application/epub+zip"
+    },
+    {
+      "path": "editions/zh-CN/fb2/Kubit_Nadezhdy_Tom_III_zh_CN.fb2",
+      "size_bytes": 530368,
+      "sha256": "eadfa432960825cba4423dbc4edc6baaa2f3931267f79e24a970b8a6fa795fba",
+      "role": "edition",
+      "media_type": "application/x-fictionbook+xml"
+    },
+    {
+      "path": "editions/zh-CN/md/Kubit_Nadezhdy_Tom_III_zh_CN.md",
+      "size_bytes": 439684,
+      "sha256": "d56aac241c155bfc5f807c5f792156be1ad6858f904447a506823e53d809c18b",
+      "role": "edition",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "editions/zh-CN/pdf/Kubit_Nadezhdy_Tom_III_zh_CN.pdf",
+      "size_bytes": 4477339,
+      "sha256": "6113fadbe7c80298c74bf07ad1bd356e85d9cb934dd2ef958179e68a216c6777",
+      "role": "edition",
+      "media_type": "application/pdf"
+    },
+    {
+      "path": "llms-full.txt",
+      "size_bytes": 2735,
+      "sha256": "82a5c76844965abf89604346361ef84a2fec3e28df5dc9fa6bd37f3788014d22",
+      "role": "human-or-entry-file",
+      "media_type": "text/plain"
+    },
+    {
+      "path": "llms.txt",
+      "size_bytes": 631,
+      "sha256": "fdce39396622f6a776e593da32955251ccccc5cf51ba751cbe9e413ccd8e37aa",
+      "role": "human-or-entry-file",
+      "media_type": "text/plain"
+    },
+    {
+      "path": "metadata/ASSET_MAP.json",
+      "size_bytes": 16081,
+      "sha256": "2cfc00c96c73c278c1c21635548076e7ea34e47697277ec286cba83834eb2e60",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/ASSET_MAP.md",
+      "size_bytes": 1902,
+      "sha256": "8aa4d15d2265fd6b3821cdde21ffa2be89bcdcd412a37f44ea1669cddfcbf446",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/COVER_METADATA.json",
+      "size_bytes": 577,
+      "sha256": "616dffc3e71ac721d575e32557bb1a75748f02534fa9733af86589cbe2ecf6bd",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/EDITION_FILES.json",
+      "size_bytes": 14738,
+      "sha256": "56f970869e293cf54fb5c0557f864db6fa4ccf7ef6d39be29c11e88ad8d23b39",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/HUMAN_ENTRY.md",
+      "size_bytes": 307,
+      "sha256": "051aefa0febf0dc4a160ec62db7542c4975ba2839f10f347d371d139b985d4df",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/NAMING_DRIFT_REPORT.md",
+      "size_bytes": 460,
+      "sha256": "8449a6571781c4597d1a0c9b996559037914510633d6f5875bb644a1301f251d",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/PUBLICATION_LOG.md",
+      "size_bytes": 331,
+      "sha256": "0fc53bc272f00d0109b45e4c8f8795db9d3438c2956a12086d0bfc74b1ace75b",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/RELEASE_MATRIX_VOLUME_III.md",
+      "size_bytes": 2009,
+      "sha256": "af48a8639b6ad5af4c2d5f0122f176b782c3d5da6abbe09f65c96b3ba8f48041",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/RELEASE_STATUS.json",
+      "size_bytes": 1639,
+      "sha256": "4882799392012673abc3b3914258f23cabbfae9ef2107ab953540956721a2a26",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/SCHEMA_NOTES.md",
+      "size_bytes": 1134,
+      "sha256": "07a69a5e17b869ae9db163620e4cc43031be921e2029d0a153f5ae650e9f6237",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/SOURCE_PROVENANCE.md",
+      "size_bytes": 472,
+      "sha256": "c88c3d01fc3bb053bd331f1bd144a20ae45a21feaf6fb7ced61ba23c74137e14",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/TRILOGY_LINKS.json",
+      "size_bytes": 593,
+      "sha256": "0c3488080a718841390d59a3702d7165aa6383e857d6842d021db4e1a8a498d2",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "hashes/SHA256SUMS.metadata-only.txt",
+      "size_bytes": null,
+      "sha256": null,
+      "role": "hash-manifest",
+      "media_type": "text/plain",
+      "excluded_from_repo_all": true,
+      "note": "hash file content omitted from MANIFEST.json to avoid recursive hash instability"
+    },
+    {
+      "path": "hashes/SHA256SUMS.repo-all.txt",
+      "size_bytes": null,
+      "sha256": null,
+      "role": "hash-manifest",
+      "media_type": "text/plain",
+      "excluded_from_repo_all": true,
+      "note": "hash file content omitted from MANIFEST.json to avoid recursive hash instability"
+    },
+    {
+      "path": "hashes/SHA256SUMS.repo-layout.txt",
+      "size_bytes": null,
+      "sha256": null,
+      "role": "hash-manifest",
+      "media_type": "text/plain",
+      "excluded_from_repo_all": true,
+      "note": "hash file content omitted from MANIFEST.json to avoid recursive hash instability"
+    },
+    {
+      "path": "hashes/SHA256SUMS.source-tree.txt",
+      "size_bytes": null,
+      "sha256": null,
+      "role": "hash-manifest",
+      "media_type": "text/plain",
+      "excluded_from_repo_all": true,
+      "note": "hash file content omitted from MANIFEST.json to avoid recursive hash instability"
+    }
+  ]
+}

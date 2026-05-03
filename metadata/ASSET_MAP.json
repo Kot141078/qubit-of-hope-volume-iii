@@ -1,0 +1,304 @@
+{
+  "generated_at": "2026-05-03",
+  "source_root": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том",
+  "cover": {
+    "original_source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Cover/Image 3 мая 2026 г..png",
+    "original_file_name": "Image 3 мая 2026 г..png",
+    "repository_path": "covers/Image 3 мая 2026 г..png",
+    "sha256": "96b5bcda1c4c094bdfc9f5376ea9b60201e29a2697d87d63f218cd5e9eb7266d",
+    "size_bytes": 2670826,
+    "media_type": "image/png",
+    "role": "cover",
+    "date": "2026-05-03",
+    "naming_decision": "Volume II preserves original cover file names, so Volume III preserves the original cover file name."
+  },
+  "editions": [
+    {
+      "language": "ru",
+      "language_name_english": "Russian",
+      "language_name_native": "Русский",
+      "canonical_title": "Кубит Надежды. Том III",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_ru.md",
+          "repo_path": "editions/ru/md/Kubit_Nadezhdy_Tom_III_ru.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_ru.md",
+          "size_bytes": 783784,
+          "sha256": "1a94dd4573b0bc8772b92376ab57cf0f570415b3db737e45bbb38bf5ad556233",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_ru.pdf",
+          "repo_path": "editions/ru/pdf/Kubit_Nadezhdy_Tom_III_ru.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_ru.pdf",
+          "size_bytes": 788462,
+          "sha256": "f0d48397ad309931f81b19061084c50027471ff74b03ff0326ab7c0d8e2d3cd1",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_ru.epub",
+          "repo_path": "editions/ru/epub/Kubit_Nadezhdy_Tom_III_ru.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_ru.epub",
+          "size_bytes": 270493,
+          "sha256": "1c9fa1dc7e1d1a91cd5e70a886149436d1da51c84ee76b80321fd619db03561e",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_ru.fb2",
+          "repo_path": "editions/ru/fb2/Kubit_Nadezhdy_Tom_III_ru.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_ru.fb2",
+          "size_bytes": 879515,
+          "sha256": "a48e23dc0791b992affcd47acbf024e6b5fddc1a35307ca9c848223d6cf31d87",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    },
+    {
+      "language": "en",
+      "language_name_english": "English",
+      "language_name_native": "English",
+      "canonical_title": "Qubit of Hope. Volume III",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "Qubit_of_Hope_Volume_III_en.md",
+          "repo_path": "editions/en/md/Qubit_of_Hope_Volume_III_en.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_of_Hope_Volume_III_en.md",
+          "size_bytes": 495903,
+          "sha256": "d64837d90e285d40d2b5b05d1245e2116fc8457445c686b029b5974d4ed56c64",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "Qubit_of_Hope_Volume_III_en.pdf",
+          "repo_path": "editions/en/pdf/Qubit_of_Hope_Volume_III_en.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_of_Hope_Volume_III_en.pdf",
+          "size_bytes": 709760,
+          "sha256": "47d5387dded10a411e1f429985ad53b9790f4baf65b68654ffa5dbe749966e0a",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "Qubit_of_Hope_Volume_III_en.epub",
+          "repo_path": "editions/en/epub/Qubit_of_Hope_Volume_III_en.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_of_Hope_Volume_III_en.epub",
+          "size_bytes": 221137,
+          "sha256": "ed1bebeea5a41ec7aac62f32ac4c40c5d95c6ee2ae27fd3e4d7ed9e77c869b8d",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "Qubit_of_Hope_Volume_III_en.fb2",
+          "repo_path": "editions/en/fb2/Qubit_of_Hope_Volume_III_en.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_of_Hope_Volume_III_en.fb2",
+          "size_bytes": 600034,
+          "sha256": "acc43e388c2fa6241a486f62fb201cd7a95c125f8823022bad7d03c528af2ab5",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    },
+    {
+      "language": "fr",
+      "language_name_english": "French",
+      "language_name_native": "Français",
+      "canonical_title": "Qubit de l’espoir. Tome III",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "Qubit_de_l_espoir_Tome_III_fr.md",
+          "repo_path": "editions/fr/md/Qubit_de_l_espoir_Tome_III_fr.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_de_l_espoir_Tome_III_fr.md",
+          "size_bytes": 545476,
+          "sha256": "d7b3866b1348911412f2d22c4fe0dba807a3fa11046496fa47fbcc9db70bab38",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "Qubit_de_l_espoir_Tome_III_fr.pdf",
+          "repo_path": "editions/fr/pdf/Qubit_de_l_espoir_Tome_III_fr.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_de_l_espoir_Tome_III_fr.pdf",
+          "size_bytes": 983615,
+          "sha256": "689749605af57059a580c9ace7b7f0e5fc1c4577c311940478776337298f1436",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "Qubit_de_l_espoir_Tome_III_fr.epub",
+          "repo_path": "editions/fr/epub/Qubit_de_l_espoir_Tome_III_fr.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_de_l_espoir_Tome_III_fr.epub",
+          "size_bytes": 238796,
+          "sha256": "b6c2037fe317269f1083daa92ad606f4ac77bed07bbef51caf49c40da64fa92c",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "Qubit_de_l_espoir_Tome_III_fr.fb2",
+          "repo_path": "editions/fr/fb2/Qubit_de_l_espoir_Tome_III_fr.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Qubit_de_l_espoir_Tome_III_fr.fb2",
+          "size_bytes": 660487,
+          "sha256": "074631cb596a471f64485b0798f825bf3b343bbcc48603763e83af8d51bc9024",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    },
+    {
+      "language": "es",
+      "language_name_english": "Spanish",
+      "language_name_native": "Español",
+      "canonical_title": "El cúbit de la esperanza. Tomo III",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "El_cubit_de_la_esperanza_Tomo_III_es.md",
+          "repo_path": "editions/es/md/El_cubit_de_la_esperanza_Tomo_III_es.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/El_cubit_de_la_esperanza_Tomo_III_es.md",
+          "size_bytes": 498914,
+          "sha256": "e6cc91ee7650eb7c5a0c7efd463e3c43aad8981871779227da6c5bb40ac40b15",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "El_cubit_de_la_esperanza_Tomo_III_es.pdf",
+          "repo_path": "editions/es/pdf/El_cubit_de_la_esperanza_Tomo_III_es.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/El_cubit_de_la_esperanza_Tomo_III_es.pdf",
+          "size_bytes": 732999,
+          "sha256": "154f8f282a67acc1b3bf190c751647d904fa050d7352821a1068ccc2c1106af9",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "El_cubit_de_la_esperanza_Tomo_III_es.epub",
+          "repo_path": "editions/es/epub/El_cubit_de_la_esperanza_Tomo_III_es.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/El_cubit_de_la_esperanza_Tomo_III_es.epub",
+          "size_bytes": 227251,
+          "sha256": "43a24eea1a98bcaf43931d0eb3a0d2795bf7ebe8974c7c7287a4432afbcd7c21",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "El_cubit_de_la_esperanza_Tomo_III_es.fb2",
+          "repo_path": "editions/es/fb2/El_cubit_de_la_esperanza_Tomo_III_es.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/El_cubit_de_la_esperanza_Tomo_III_es.fb2",
+          "size_bytes": 582168,
+          "sha256": "67f1201b269ee98a7812ca979fac93fbd615663b8475905bbc30b4560b44d23c",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    },
+    {
+      "language": "de",
+      "language_name_english": "German",
+      "language_name_native": "Deutsch",
+      "canonical_title": "Qubit der Hoffnung. Band III",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "Kubit_der_Hoffnung_Band_III_de.md",
+          "repo_path": "editions/de/md/Kubit_der_Hoffnung_Band_III_de.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_der_Hoffnung_Band_III_de.md",
+          "size_bytes": 526662,
+          "sha256": "c08de3f637c09cd3c9733435fb8b571e73fab2d682bb3b700344322f466e3fcd",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "Kubit_der_Hoffnung_Band_III_de.pdf",
+          "repo_path": "editions/de/pdf/Kubit_der_Hoffnung_Band_III_de.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_der_Hoffnung_Band_III_de.pdf",
+          "size_bytes": 621187,
+          "sha256": "614e652684555671849148e43b2250c0eecb5a1586fc90c17a89f532052e0bf2",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "Kubit_der_Hoffnung_Band_III_de.epub",
+          "repo_path": "editions/de/epub/Kubit_der_Hoffnung_Band_III_de.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_der_Hoffnung_Band_III_de.epub",
+          "size_bytes": 239305,
+          "sha256": "8fe9c17b2fdd11d11ca1c12973cf88f909c56628b8731611f90b6c11ba4a8ec9",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "Kubit_der_Hoffnung_Band_III_de.fb2",
+          "repo_path": "editions/de/fb2/Kubit_der_Hoffnung_Band_III_de.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_der_Hoffnung_Band_III_de.fb2",
+          "size_bytes": 583855,
+          "sha256": "647030b7bba158b32f2ac6185758f2f8e64d2ba8212cee67f54b72d4dcceb423",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    },
+    {
+      "language": "nl",
+      "language_name_english": "Dutch",
+      "language_name_native": "Nederlands",
+      "canonical_title": "De qubit van hoop. Deel III",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "De_qubit_van_hoop_Deel_III_nl.md",
+          "repo_path": "editions/nl/md/De_qubit_van_hoop_Deel_III_nl.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/De_qubit_van_hoop_Deel_III_nl.md",
+          "size_bytes": 506480,
+          "sha256": "58899007da6ea0ddfe392ffece9db65fb6e13af6207cf28a33cef6c86c97859e",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "De_qubit_van_hoop_Deel_III_nl.pdf",
+          "repo_path": "editions/nl/pdf/De_qubit_van_hoop_Deel_III_nl.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/De_qubit_van_hoop_Deel_III_nl.pdf",
+          "size_bytes": 596103,
+          "sha256": "ccf6d145d79fde8a29cd827825541308f42b8cc9463ae84e0ea7ec0a81d15f76",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "De_qubit_van_hoop_Deel_III_nl.epub",
+          "repo_path": "editions/nl/epub/De_qubit_van_hoop_Deel_III_nl.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/De_qubit_van_hoop_Deel_III_nl.epub",
+          "size_bytes": 227248,
+          "sha256": "6a8ac49690ccb0f0e3aad01e4258e9c2bec749b7976b02eb5ac85019ee6d3f1f",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "De_qubit_van_hoop_Deel_III_nl.fb2",
+          "repo_path": "editions/nl/fb2/De_qubit_van_hoop_Deel_III_nl.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/De_qubit_van_hoop_Deel_III_nl.fb2",
+          "size_bytes": 610827,
+          "sha256": "e0319a3b188953a5f25b971cc067e88a3961b0594d9455f6b6fb0711554583de",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    },
+    {
+      "language": "zh-CN",
+      "language_name_english": "Simplified Chinese",
+      "language_name_native": "简体中文",
+      "canonical_title": "希望量子比特。第三卷",
+      "status": "complete",
+      "formats": {
+        "md": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_zh_CN.md",
+          "repo_path": "editions/zh-CN/md/Kubit_Nadezhdy_Tom_III_zh_CN.md",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_zh_CN.md",
+          "size_bytes": 439684,
+          "sha256": "d56aac241c155bfc5f807c5f792156be1ad6858f904447a506823e53d809c18b",
+          "media_type": "text/markdown"
+        },
+        "pdf": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_zh_CN.pdf",
+          "repo_path": "editions/zh-CN/pdf/Kubit_Nadezhdy_Tom_III_zh_CN.pdf",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_zh_CN.pdf",
+          "size_bytes": 4477339,
+          "sha256": "6113fadbe7c80298c74bf07ad1bd356e85d9cb934dd2ef958179e68a216c6777",
+          "media_type": "application/pdf"
+        },
+        "epub": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_zh_CN.epub",
+          "repo_path": "editions/zh-CN/epub/Kubit_Nadezhdy_Tom_III_zh_CN.epub",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_zh_CN.epub",
+          "size_bytes": 232907,
+          "sha256": "0dfc4fd6155c065cd7d7304ff0deeecf06916c1962ee92801970be413611f7dd",
+          "media_type": "application/epub+zip"
+        },
+        "fb2": {
+          "file_name": "Kubit_Nadezhdy_Tom_III_zh_CN.fb2",
+          "repo_path": "editions/zh-CN/fb2/Kubit_Nadezhdy_Tom_III_zh_CN.fb2",
+          "source_path": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Kubit_Nadezhdy_Tom_III_zh_CN.fb2",
+          "size_bytes": 530368,
+          "sha256": "eadfa432960825cba4423dbc4edc6baaa2f3931267f79e24a970b8a6fa795fba",
+          "media_type": "application/x-fictionbook+xml"
+        }
+      }
+    }
+  ]
+}

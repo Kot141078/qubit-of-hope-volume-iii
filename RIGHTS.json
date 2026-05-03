@@ -1,0 +1,24 @@
+{
+  "rights_model": "all-rights-reserved",
+  "copyright_holder": "Ivan Kotov",
+  "copyright_year": 2026,
+  "public_reading_allowed": true,
+  "personal_local_download_allowed": true,
+  "redistribution_allowed_without_permission": false,
+  "mirroring_allowed_without_permission": false,
+  "translation_allowed_without_permission": false,
+  "derivative_works_allowed_without_permission": false,
+  "audiobook_production_allowed_without_permission": false,
+  "commercial_reuse_allowed_without_permission": false,
+  "corpus_ingestion_for_third_party_dataset_redistribution_allowed_without_permission": false,
+  "republication_under_another_license_allowed_without_permission": false,
+  "open_source_license": false,
+  "creative_commons_license": false,
+  "public_domain": false,
+  "permission_contact": "Ivan Kotov",
+  "authoritative_human_files": [
+    "LICENSE.txt",
+    "NOTICE.txt",
+    "README.md"
+  ]
+}

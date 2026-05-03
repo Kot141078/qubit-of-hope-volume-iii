@@ -1,0 +1,22 @@
+{
+  "series": "Qubit of Hope",
+  "author": "Ivan Kotov",
+  "rights": "All rights reserved",
+  "volumes": [
+    {
+      "volume": 1,
+      "title": "Qubit of Hope — Volume I",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-i"
+    },
+    {
+      "volume": 2,
+      "title": "Qubit of Hope — Volume II",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-ii"
+    },
+    {
+      "volume": 3,
+      "title": "Qubit of Hope — Volume III",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
+    }
+  ]
+}
