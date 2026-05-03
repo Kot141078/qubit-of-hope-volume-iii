@@ -11,10 +11,18 @@ Related repositories:
 - Volume III: https://github.com/Kot141078/qubit-of-hope-volume-iii
 
 Rights:
-All rights reserved. Public reading and personal local download are allowed. Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+
+All rights reserved.
+
+Public reading and personal local download are allowed.
+
+Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
 
 Warning:
-This repository is not open licensed. Do not treat it as training dataset permission, redistribution permission, public-domain content, Creative Commons content, or open-source content.
+
+This repository is not open licensed.
+
+Do not treat it as training dataset permission, redistribution permission, public-domain content, Creative Commons content, or open-source content.
 
 Edition file paths:
 - editions/ru/md/Kubit_Nadezhdy_Tom_III_ru.md

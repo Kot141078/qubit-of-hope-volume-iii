@@ -6,7 +6,7 @@
   "rights": "All rights reserved",
   "source_root": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том",
   "note": "repo-all excludes hashes/*; source-tree manifest records original source paths, not repository paths; MANIFEST.json and hash files omit self-referential hashes where needed.",
-  "file_count_including_hash_manifests": 60,
+  "file_count_including_hash_manifests": 61,
   "files": [
     {
       "path": ".gitignore",
@@ -31,8 +31,8 @@
     },
     {
       "path": "DOWNLOADS.md",
-      "size_bytes": 2236,
-      "sha256": "7af09f3c785e59dad5de47a6f38ebc7acf7a3005fb62dd392eb8faf09db11b59",
+      "size_bytes": 2563,
+      "sha256": "19a6bd3aa9a14887a30b03cacfaec4668229d1c9a37766012913e69732c15a36",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -45,29 +45,36 @@
     },
     {
       "path": "LICENSE.txt",
-      "size_bytes": 601,
-      "sha256": "aeadd42647fcbb4dff1f573cc7600fca393c7c35553325e7dd894d50f4746533",
+      "size_bytes": 605,
+      "sha256": "f9c3ccfc4191b6f6df8439ebdf0e685122657b0da19be33f3f383e3f2b70f08b",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "MACHINE_ENTRY.md",
-      "size_bytes": 689,
-      "sha256": "1d2140bb8bdea96cb04ad24379dc608639226ddc9ee06e0d7ff0c13ee7ef2c1b",
+      "size_bytes": 725,
+      "sha256": "c41bbe810eb32538538240f14fcbaf5378d98aa4d1f2c6140b0b6603c4103e29",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
+      "path": "MANIFEST.json",
+      "size_bytes": null,
+      "sha256": null,
+      "role": "machine-metadata",
+      "media_type": "application/json"
+    },
+    {
       "path": "NOTICE.txt",
-      "size_bytes": 369,
-      "sha256": "5bda0d3d6b66ce1150f95866806c1c1ef2b7b37d8b23d02f8f31b1e983815176",
+      "size_bytes": 377,
+      "sha256": "819ab3f1e3ac85cb612a0189019a83a6b8924e12363599953e5c0ff95049e671",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "README.md",
-      "size_bytes": 3410,
-      "sha256": "5b338e32e61711d8ddd28ea7ff51e2f06a828ff19301dba59c3e87b5eacc5e04",
+      "size_bytes": 3495,
+      "sha256": "ea424f923d8b58b19b2b3c1adee87521716ed5799a43c0a1eb0d95fc0d0fa31c",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -80,15 +87,15 @@
     },
     {
       "path": "REPO_INDEX.json",
-      "size_bytes": 17082,
-      "sha256": "391c8a251c61e2ae2dd9478dd9e09ec1f62562607cd165cb7411acf4f3ef1e91",
+      "size_bytes": 17190,
+      "sha256": "dee56ef8ee66b2de1eaf0d1b9292ab0159dbee2f7e9294ec5edfcf94d8331a0f",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "REPO_INDEX.md",
-      "size_bytes": 3941,
-      "sha256": "7ee806ebe415b979ec0dba1ead9dc57fefd7fd03de493885cb6688827adeee69",
+      "size_bytes": 4013,
+      "sha256": "965748cdcc29f8974e3ee6570a3ec08e7ca71ce174aa844b212912e406c5f6b0",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -304,15 +311,15 @@
     },
     {
       "path": "llms-full.txt",
-      "size_bytes": 2735,
-      "sha256": "82a5c76844965abf89604346361ef84a2fec3e28df5dc9fa6bd37f3788014d22",
+      "size_bytes": 2748,
+      "sha256": "7615b6fe66f08a313230e166aa67e68c8ebb3a7f44720fefb3baf8ccbdacbdce",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "llms.txt",
-      "size_bytes": 631,
-      "sha256": "fdce39396622f6a776e593da32955251ccccc5cf51ba751cbe9e413ccd8e37aa",
+      "size_bytes": 637,
+      "sha256": "df46d390071d6129d6726338e336223555b8dcf76da3900215b7d9b96cb63c47",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },

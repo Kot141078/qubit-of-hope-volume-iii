@@ -6,7 +6,21 @@ Public reading repository for Volume III of Ivan Kotov's novel cycle "Qubit of H
 
 All rights reserved.
 
-Public reading in this repository and personal local download are allowed. Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+Allowed without prior written permission:
+
+- public reading in this repository;
+- personal local download for reading.
+
+Not allowed without prior written permission from Ivan Kotov:
+
+- redistribution;
+- mirroring;
+- translation;
+- derivative works;
+- audiobook production;
+- corpus ingestion for third-party dataset redistribution;
+- republication under another license;
+- commercial reuse.
 
 This is not an open-source, Creative Commons, public-domain, or free-reuse repository.
 

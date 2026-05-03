@@ -2,7 +2,11 @@ Qubit of Hope — Volume III
 Notice for readers and mirrors
 
 This public repository is for reading and preservation.
+
 Do not redistribute or mirror the repository or its files without prior written permission from Ivan Kotov.
+
 If referencing this work, cite the repository and the author.
+
 Do not detach edition files from this rights notice.
+
 All rights reserved.

@@ -9,7 +9,9 @@ Languages: ru, en, fr, es, de, nl, zh-CN
 Formats: md, pdf, epub, fb2
 Rights: All rights reserved.
 
-This repository is public for reading and personal local download only. It is not open licensed, not Creative Commons, and not public domain.
+This repository is public for reading and personal local download only.
+
+It is not open licensed, not Creative Commons, and not public domain.
 
 JSON metadata:
 
@@ -22,3 +24,5 @@ JSON metadata:
 - `metadata/EDITION_FILES.json`
 - `metadata/TRILOGY_LINKS.json`
 - `metadata/COVER_METADATA.json`
+- `llms.txt`
+- `llms-full.txt`

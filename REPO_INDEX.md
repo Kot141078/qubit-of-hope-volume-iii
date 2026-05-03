@@ -19,6 +19,7 @@ This repository contains the public reading package for Volume III of Ivan Kotov
 - `CITATION.cff`: citation metadata.
 - `llms.txt`: concise machine index.
 - `llms-full.txt`: fuller machine index without book text.
+- `.gitignore`: parity with Volumes I and II; ignores OS clutter only.
 
 ## Folders
 

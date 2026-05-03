@@ -21,6 +21,7 @@
     "metadata/"
   ],
   "top_level_files": [
+    ".gitignore",
     "README.md",
     "DOWNLOADS.md",
     "RELEASE_STATUS.md",
@@ -345,6 +346,7 @@
   ],
   "notes": [
     "All rights reserved.",
+    ".gitignore is kept for parity with Volumes I and II and ignores OS clutter only.",
     "Repo-all excludes hashes/* to avoid recursive hash instability.",
     "Source-tree manifest uses original local source paths and is source provenance, not repo layout."
   ]

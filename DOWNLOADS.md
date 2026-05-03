@@ -1,6 +1,14 @@
 # Downloads
 
-All rights reserved. Public reading and personal local download are allowed. Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+All rights reserved.
+
+Public reading and personal local download are allowed.
+
+Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+
+This is not open source, not Creative Commons, and not public domain.
+
+## Direct Downloads
 
 | language | name | Markdown | PDF | EPUB | FB2 |
 |---|---|---|---|---|---|
@@ -11,3 +19,9 @@ All rights reserved. Public reading and personal local download are allowed. Red
 | `de` | German | [md](editions/de/md/Kubit_der_Hoffnung_Band_III_de.md) | [pdf](editions/de/pdf/Kubit_der_Hoffnung_Band_III_de.pdf) | [epub](editions/de/epub/Kubit_der_Hoffnung_Band_III_de.epub) | [fb2](editions/de/fb2/Kubit_der_Hoffnung_Band_III_de.fb2) |
 | `nl` | Dutch | [md](editions/nl/md/De_qubit_van_hoop_Deel_III_nl.md) | [pdf](editions/nl/pdf/De_qubit_van_hoop_Deel_III_nl.pdf) | [epub](editions/nl/epub/De_qubit_van_hoop_Deel_III_nl.epub) | [fb2](editions/nl/fb2/De_qubit_van_hoop_Deel_III_nl.fb2) |
 | `zh-CN` | Simplified Chinese | [md](editions/zh-CN/md/Kubit_Nadezhdy_Tom_III_zh_CN.md) | [pdf](editions/zh-CN/pdf/Kubit_Nadezhdy_Tom_III_zh_CN.pdf) | [epub](editions/zh-CN/epub/Kubit_Nadezhdy_Tom_III_zh_CN.epub) | [fb2](editions/zh-CN/fb2/Kubit_Nadezhdy_Tom_III_zh_CN.fb2) |
+
+## Related Volumes
+
+- Volume I: https://github.com/Kot141078/qubit-of-hope-volume-i
+- Volume II: https://github.com/Kot141078/qubit-of-hope-volume-ii
+- Volume III: https://github.com/Kot141078/qubit-of-hope-volume-iii
