@@ -52,8 +52,8 @@
     },
     {
       "path": "MACHINE_ENTRY.md",
-      "size_bytes": 697,
-      "sha256": "78cff34eadd77212f49b4c1d87eb2cb09c225f25d5af62e7f8a2d8ab2235c523",
+      "size_bytes": 675,
+      "sha256": "678afcb43cda881a75accf9ac40ebf2f64025c7dfaff028f539355f1871e3cf1",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
