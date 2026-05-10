@@ -5,6 +5,10 @@ This public repository is for reading and preservation.
 
 Do not redistribute or mirror the repository or its files without prior written permission from Ivan Kotov.
 
+Do not produce, synthesize, narrate, record, upload, stream, sell, license, or distribute audiobook or audio adaptations without prior written permission from Ivan Kotov.
+
+Do not use this repository for AI training, machine-learning datasets, corpus ingestion for third-party dataset redistribution, voice cloning, or synthetic voice systems without prior written permission from Ivan Kotov.
+
 If referencing this work, cite the repository and the author.
 
 Do not detach edition files from this rights notice.

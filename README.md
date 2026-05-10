@@ -18,11 +18,20 @@ Not allowed without prior written permission from Ivan Kotov:
 - translation;
 - derivative works;
 - audiobook production;
+- AI training;
+- machine-learning dataset use;
 - corpus ingestion for third-party dataset redistribution;
 - republication under another license;
 - commercial reuse.
 
 This is not an open-source, Creative Commons, public-domain, or free-reuse repository.
+
+Authoritative rights files:
+
+- [LICENSE.txt](LICENSE.txt)
+- [NOTICE.txt](NOTICE.txt)
+- [RIGHTS.json](RIGHTS.json)
+- [AUDIOBOOK_RIGHTS.md](AUDIOBOOK_RIGHTS.md)
 
 ## Direct Downloads
 

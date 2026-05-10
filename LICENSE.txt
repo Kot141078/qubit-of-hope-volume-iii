@@ -11,6 +11,6 @@ This repository is published for public reading and preservation.
 
 Public reading and personal local download are allowed.
 
-Redistribution, mirroring, translation, derivative works, audiobook production, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
+Redistribution, mirroring, translation, derivative works, audiobook production, AI training, machine-learning dataset use, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
 
-See RIGHTS.json for machine-readable rights metadata.
+See RIGHTS.json for machine-readable rights metadata and AUDIOBOOK_RIGHTS.md for audiobook-specific rights restrictions.
