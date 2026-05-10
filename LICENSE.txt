@@ -13,4 +13,8 @@ Public reading and personal local download are allowed.
 
 Redistribution, mirroring, translation, derivative works, audiobook production, AI training, machine-learning dataset use, corpus ingestion for third-party dataset redistribution, republication under another license, and commercial reuse require prior written permission from Ivan Kotov.
 
-See RIGHTS.json for machine-readable rights metadata and AUDIOBOOK_RIGHTS.md for audiobook-specific rights restrictions.
+All film, television, streaming series, episodic video, animation, AI-generated audiovisual adaptation, generative video, screenplay, dramatization, stage, radio drama, podcast drama, comic, graphic novel, illustrated narrative, game, interactive fiction, virtual reality, augmented reality, synthetic actor, synthetic performance, character licensing, merchandising, worldbuilding, franchise, and other media adaptation rights are expressly reserved by Ivan Kotov.
+
+No media adaptation, whether human-produced, AI-assisted, AI-generated, synthetic, interactive, audiovisual, visual, dramatic, commercial, promotional, or derivative, may be produced, generated, distributed, uploaded, streamed, sold, licensed, or otherwise exploited without prior written permission from Ivan Kotov, except where such use is explicitly allowed by applicable law.
+
+See RIGHTS.json for machine-readable rights metadata, AUDIOBOOK_RIGHTS.md for audiobook-specific rights restrictions, and MEDIA_ADAPTATION_RIGHTS.md for media-specific rights.

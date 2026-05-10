@@ -9,8 +9,12 @@ Do not produce, synthesize, narrate, record, upload, stream, sell, license, or d
 
 Do not use this repository for AI training, machine-learning datasets, corpus ingestion for third-party dataset redistribution, voice cloning, or synthetic voice systems without prior written permission from Ivan Kotov.
 
+Do not create film, television, streaming series, animation, AI-generated audiovisual, generative video, screenplay, dramatization, comic, graphic novel, game, interactive, virtual reality, augmented reality, synthetic actor, synthetic performance, merchandising, character licensing, worldbuilding, franchise, or other media adaptations without prior written permission from Ivan Kotov.
+
 If referencing this work, cite the repository and the author.
 
 Do not detach edition files from this rights notice.
+
+For media adaptation rights, see MEDIA_ADAPTATION_RIGHTS.md.
 
 All rights reserved.
