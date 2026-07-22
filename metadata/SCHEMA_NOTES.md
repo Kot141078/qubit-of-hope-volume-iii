@@ -9,8 +9,13 @@
 - `metadata/EDITION_FILES.json`: edition bundle list.
 - `metadata/TRILOGY_LINKS.json`: volume order and repository URLs.
 - `metadata/COVER_METADATA.json`: source and repository metadata for the cover image.
-- `hashes/SHA256SUMS.repo-all.txt`: all non-hash repository files; excludes `hashes/*`.
-- `hashes/SHA256SUMS.repo-layout.txt`: mirrors repo-all for this assembled repository, matching the Volume II convention.
-- `hashes/SHA256SUMS.source-tree.txt`: source provenance paths, not repository paths.
 
 This repository is not open licensed.
+
+## v1.0.2 integrity semantics
+
+- `hashes/SHA256SUMS.source-tree.txt`: protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-layout.txt`: all non-checksum repository files, using repository-relative paths and exact staged-byte SHA-256 values; mirrors repo-all according to the existing repository design.
+- `hashes/SHA256SUMS.repo-all.txt`: all non-checksum repository files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.metadata-only.txt`: legal, navigation, index, and metadata files, using exact staged-byte SHA-256 values.
+- Checksum manifests exclude `hashes/*` from repo-wide coverage to avoid recursive hash instability.

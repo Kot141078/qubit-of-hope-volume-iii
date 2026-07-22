@@ -8,11 +8,11 @@
 
 ## Release state
 
-Latest release: `v1.0.1`.
-Previous release: `v1.0.0`.
-Patch type: metadata-only / navigation-only / trilogy bridge alignment.
+Latest release: `v1.0.2`.
+Previous release: `v1.0.1`.
+Patch type: rights and public metadata portability patch.
 No reading edition files or cover assets were changed in this patch.
-Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1`
+Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2`
 
 Title: Qubit of Hope — Volume III
 
@@ -34,6 +34,8 @@ This repository is public for reading and personal local download only.
 
 It is not open licensed, not Creative Commons, and not public domain.
 
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
+
 ## JSON Metadata
 
 - `BOOK_METADATA.json`
@@ -45,3 +47,5 @@ It is not open licensed, not Creative Commons, and not public domain.
 - `metadata/EDITION_FILES.json`
 - `metadata/TRILOGY_LINKS.json`
 - `metadata/COVER_METADATA.json`
+
+Rights files: `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`, `AUDIOBOOK_RIGHTS.md`, `MEDIA_ADAPTATION_RIGHTS.md`.

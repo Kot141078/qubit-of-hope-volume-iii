@@ -1,5 +1,9 @@
 # Qubit of Hope — Volume III
 
+## Release v1.0.2
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
+
 Public reading repository for Volume III of Ivan Kotov's novel cycle "Qubit of Hope / Кубит надежды".
 
 ## Rights

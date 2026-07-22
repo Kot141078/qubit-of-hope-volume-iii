@@ -1,12 +1,11 @@
 {
-  "generated_at": "2026-05-03",
+  "generated_at": "2026-07-22",
   "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii",
   "title": "Qubit of Hope — Volume III",
   "author": "Ivan Kotov",
   "rights": "All rights reserved",
-  "source_root": "C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том",
-  "note": "repo-all excludes hashes/*; source-tree manifest records original source paths, not repository paths; MANIFEST.json and hash files omit self-referential hashes where needed.",
-  "file_count_including_hash_manifests": 61,
+  "note": "v1.0.2 portability manifest; MANIFEST.json is excluded from its own file list; hashes/* carry null hashes here to avoid recursion; integrity manifests use repository-relative paths and exact staged bytes.",
+  "file_count_including_hash_manifests": 64,
   "files": [
     {
       "path": ".gitignore",
@@ -16,9 +15,16 @@
       "media_type": "application/octet-stream"
     },
     {
+      "path": "AUDIOBOOK_RIGHTS.md",
+      "size_bytes": 1159,
+      "sha256": "869755527b81ef472b8868b14bd3f7d963ba62f2f541672690092cf230e579c2",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
+    },
+    {
       "path": "BOOK_METADATA.json",
-      "size_bytes": 1704,
-      "sha256": "c9ea8073e96bfc9ef6e3a2a38d96cf62479139f41698015741f0a37d0b36831e",
+      "size_bytes": 1820,
+      "sha256": "bc4edfb7acb9f834c04fb4c953da1182dd8cddc43013443db83f128b8bb4e42b",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
@@ -38,71 +44,71 @@
     },
     {
       "path": "EDITIONS_MATRIX.json",
-      "size_bytes": 14449,
-      "sha256": "da0f5b81cac434c7ded01b150243949c08b7fa97c647f761257f2f29499ceb91",
+      "size_bytes": 14869,
+      "sha256": "a4dd7487c0d54acd07050f5c5f1241b3b3c165e237d71a05f7c0ba2d1e70419c",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "LICENSE.txt",
-      "size_bytes": 589,
-      "sha256": "482732c1357ed074098492c209f5f3d1e4b7e48c9387852f83e65fb3c4949163",
+      "size_bytes": 1602,
+      "sha256": "971bc6dfc34b42e7324ea7f4686f32dd02fe6569cb0b978215352e5fadf72674",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "MACHINE_ENTRY.md",
-      "size_bytes": 1195,
-      "sha256": "ac68e1312af0c2a7596af64de76181be2447949a5a136f89e49f9adf3511f04a",
+      "size_bytes": 1412,
+      "sha256": "94c8eb36e9b6bd229f799e091efec239c496bac4f73bd8e628f6ac08fddedeb1",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
-      "path": "MANIFEST.json",
-      "size_bytes": null,
-      "sha256": null,
-      "role": "machine-metadata",
-      "media_type": "application/json"
+      "path": "MEDIA_ADAPTATION_RIGHTS.md",
+      "size_bytes": 2015,
+      "sha256": "cdfa1503b409cc2b90ad37497266e31b1e17d5fe33a93f1f05e328e7831e6d6e",
+      "role": "human-or-entry-file",
+      "media_type": "text/markdown"
     },
     {
       "path": "NOTICE.txt",
-      "size_bytes": 365,
-      "sha256": "e0fa763d1f0246229b40a55aa0f4868a924750e8e92330cea62e14c6cab57949",
+      "size_bytes": 1209,
+      "sha256": "3c6a29621abc508a2ab998577b298164fb54bd5c308431b8f3a79a4fbea7ccd9",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "README.md",
-      "size_bytes": 3435,
-      "sha256": "0a18ef6cc2bf71364491177d51ac635eb0386eb0494790850b98ad2e7092e761",
+      "size_bytes": 4121,
+      "sha256": "2bc42ca92f3778e594ea64e614f61141365c6cb3dde05f0a5c3fec65cfab78fd",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "RELEASE_STATUS.md",
-      "size_bytes": 767,
-      "sha256": "e0b1f4daa8d77894e6564a5cad03238a9fcf12ad3c1514d6b77590dcb2f0d9ff",
+      "size_bytes": 984,
+      "sha256": "f14eec308aca92aa512252faeb3f4ba6469c23523293442d75dbc49517216e38",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "REPO_INDEX.json",
-      "size_bytes": 17506,
-      "sha256": "db3fe4782b043c024c1afd616ef89c4dfd76f9031bd0d5c794e46a981b79f934",
+      "size_bytes": 18160,
+      "sha256": "9b58e4e97d94a62468e046579847ffb82cdd1c240a2f1c6b9375a3c0cd7f610e",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "REPO_INDEX.md",
-      "size_bytes": 4475,
-      "sha256": "9ea269a1e07d8ea311091209849f60d56d0a92bcb157282e235409649a28c363",
+      "size_bytes": 4770,
+      "sha256": "5820a475b95e1d8296f1dd34aa3bbe81b078877452672dd6dd5b40d108e8b914",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "RIGHTS.json",
-      "size_bytes": 903,
-      "sha256": "dc6ff2c112be5ba0049771013281f1af1c302d4b2ff80ac8e78b85216faaee00",
+      "size_bytes": 2333,
+      "sha256": "1ae150fe24d9301478639c163440cc49bca84726776a6c2be4462a9621577198",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
@@ -122,8 +128,8 @@
     },
     {
       "path": "editions/de/fb2/Kubit_der_Hoffnung_Band_III_de.fb2",
-      "size_bytes": 590311,
-      "sha256": "04fb32f53d2ce6c1a559b86e1c123d0412a76bea9cd74a36248c2f048434d164",
+      "size_bytes": 583855,
+      "sha256": "647030b7bba158b32f2ac6185758f2f8e64d2ba8212cee67f54b72d4dcceb423",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -150,8 +156,8 @@
     },
     {
       "path": "editions/en/fb2/Qubit_of_Hope_Volume_III_en.fb2",
-      "size_bytes": 607572,
-      "sha256": "f330bbd0a2dfb2316f8780c7fb270a17121e16d4695ec796f68578262943ff25",
+      "size_bytes": 600034,
+      "sha256": "acc43e388c2fa6241a486f62fb201cd7a95c125f8823022bad7d03c528af2ab5",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -178,8 +184,8 @@
     },
     {
       "path": "editions/es/fb2/El_cubit_de_la_esperanza_Tomo_III_es.fb2",
-      "size_bytes": 588685,
-      "sha256": "2d242dacb742787d6e19e97749b3a06757de3d9ff7ac635346a34399c997a949",
+      "size_bytes": 582168,
+      "sha256": "67f1201b269ee98a7812ca979fac93fbd615663b8475905bbc30b4560b44d23c",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -206,8 +212,8 @@
     },
     {
       "path": "editions/fr/fb2/Qubit_de_l_espoir_Tome_III_fr.fb2",
-      "size_bytes": 668016,
-      "sha256": "cfb08526453698c9189b77a8972326f94383101d63f8939547aff2a4118b1748",
+      "size_bytes": 660487,
+      "sha256": "074631cb596a471f64485b0798f825bf3b343bbcc48603763e83af8d51bc9024",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -234,8 +240,8 @@
     },
     {
       "path": "editions/nl/fb2/De_qubit_van_hoop_Deel_III_nl.fb2",
-      "size_bytes": 618376,
-      "sha256": "829b1a3b42d8ed776ac315269d049f8173d161edf8c53b1447c15cdc9faf0124",
+      "size_bytes": 610827,
+      "sha256": "e0319a3b188953a5f25b971cc067e88a3961b0594d9455f6b6fb0711554583de",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -262,8 +268,8 @@
     },
     {
       "path": "editions/ru/fb2/Kubit_Nadezhdy_Tom_III_ru.fb2",
-      "size_bytes": 886026,
-      "sha256": "e703edf993cbec52456c53dc15fdd5a85c8b26cdf009222a6d5756436a0896cf",
+      "size_bytes": 879515,
+      "sha256": "a48e23dc0791b992affcd47acbf024e6b5fddc1a35307ca9c848223d6cf31d87",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -290,8 +296,8 @@
     },
     {
       "path": "editions/zh-CN/fb2/Kubit_Nadezhdy_Tom_III_zh_CN.fb2",
-      "size_bytes": 536886,
-      "sha256": "db191c0f017dc06ac947b255f72f52d5c70045679005b79131eff0f7f0f5d6bf",
+      "size_bytes": 530368,
+      "sha256": "eadfa432960825cba4423dbc4edc6baaa2f3931267f79e24a970b8a6fa795fba",
       "role": "edition",
       "media_type": "application/x-fictionbook+xml"
     },
@@ -308,104 +314,6 @@
       "sha256": "6113fadbe7c80298c74bf07ad1bd356e85d9cb934dd2ef958179e68a216c6777",
       "role": "edition",
       "media_type": "application/pdf"
-    },
-    {
-      "path": "llms-full.txt",
-      "size_bytes": 3076,
-      "sha256": "c5f443f215a009f6e40030cebb12a03a54a3a01c3b6a69bcde9ad23bf1aee430",
-      "role": "human-or-entry-file",
-      "media_type": "text/plain"
-    },
-    {
-      "path": "llms.txt",
-      "size_bytes": 1005,
-      "sha256": "1c3516e01ec99c081788c13f731420d9901e944f9a377d9830be9ac2cd90cfdf",
-      "role": "human-or-entry-file",
-      "media_type": "text/plain"
-    },
-    {
-      "path": "metadata/ASSET_MAP.json",
-      "size_bytes": 15777,
-      "sha256": "c53ad14c4b50d3715e2c3772a31a79e7ddf43bba15730b3a542638888c2a7ed2",
-      "role": "supporting-metadata",
-      "media_type": "application/json"
-    },
-    {
-      "path": "metadata/ASSET_MAP.md",
-      "size_bytes": 1862,
-      "sha256": "a73abe49eee102858c8d77a61db94d3b751f1575057d428a367c187652a72c28",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/COVER_METADATA.json",
-      "size_bytes": 566,
-      "sha256": "2a2f4c4b2c725b9c0351351417a4e955e4c7b117f0645e151151cebe981cdbdc",
-      "role": "supporting-metadata",
-      "media_type": "application/json"
-    },
-    {
-      "path": "metadata/EDITION_FILES.json",
-      "size_bytes": 14449,
-      "sha256": "da0f5b81cac434c7ded01b150243949c08b7fa97c647f761257f2f29499ceb91",
-      "role": "supporting-metadata",
-      "media_type": "application/json"
-    },
-    {
-      "path": "metadata/HUMAN_ENTRY.md",
-      "size_bytes": 300,
-      "sha256": "684fc247c75e36fd38e23d9127e6fff432a8a66098f231628011ddc879cde2fd",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/NAMING_DRIFT_REPORT.md",
-      "size_bytes": 447,
-      "sha256": "b92a2488e78a6a52dfa28a0c85a48cc111d9f9c493442f7d86b8318bfeda3bd4",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/PUBLICATION_LOG.md",
-      "size_bytes": 325,
-      "sha256": "f59b1231f439a5df4bda2cf2beb365484fda98bc61a66c5c530b8a4ee0a4aef5",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/RELEASE_MATRIX_VOLUME_III.md",
-      "size_bytes": 1996,
-      "sha256": "9ceb2c0465577c20d791197576f37b8bb8ef2cbadccce3730cab7f7c1072f385",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/RELEASE_STATUS.json",
-      "size_bytes": 1560,
-      "sha256": "18e2898d88c5918056e17c48fdb6e70eadc3065b2f0753db98f0e3e39a2cdc3d",
-      "role": "supporting-metadata",
-      "media_type": "application/json"
-    },
-    {
-      "path": "metadata/SCHEMA_NOTES.md",
-      "size_bytes": 1118,
-      "sha256": "8182297876ff53bbf2821ec5582a048e568ba72f4929969a61e4fbaa9f53d106",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/SOURCE_PROVENANCE.md",
-      "size_bytes": 465,
-      "sha256": "6a2a4d1a01aaed2e0c94489d84632f439019db46883cac22bfcc5f31737a1db1",
-      "role": "supporting-metadata",
-      "media_type": "text/markdown"
-    },
-    {
-      "path": "metadata/TRILOGY_LINKS.json",
-      "size_bytes": 571,
-      "sha256": "63d78e52575cbeb6efeb3e6a985e0df1cf0a6a80f59e89ffbc9be1b9dd0ec193",
-      "role": "supporting-metadata",
-      "media_type": "application/json"
     },
     {
       "path": "hashes/SHA256SUMS.metadata-only.txt",
@@ -442,26 +350,133 @@
       "media_type": "text/plain",
       "excluded_from_repo_all": true,
       "note": "hash file content omitted from MANIFEST.json to avoid recursive hash instability"
+    },
+    {
+      "path": "llms-full.txt",
+      "size_bytes": 3293,
+      "sha256": "76e313108bd7db8b311d736a844e3fa62f78a83ce7237e01b8ebc4442faaa399",
+      "role": "human-or-entry-file",
+      "media_type": "text/plain"
+    },
+    {
+      "path": "llms.txt",
+      "size_bytes": 1222,
+      "sha256": "efce6b914d06e40cb4b5a0696e9536a63e610fa6e5f2af8b87320909e6a314cf",
+      "role": "human-or-entry-file",
+      "media_type": "text/plain"
+    },
+    {
+      "path": "metadata/ASSET_MAP.json",
+      "size_bytes": 16180,
+      "sha256": "be3d5bf1329ae52553509c3cf25c69bb68920c5e9758bcf99f0435b728420986",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/ASSET_MAP.md",
+      "size_bytes": 1819,
+      "sha256": "185137e3cfcc3baee7a19a08d3907366596fc3a964c451d7c06693e7152749f8",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/COVER_METADATA.json",
+      "size_bytes": 508,
+      "sha256": "3c37ac6d3bb71762f4f107e7e0c60ae207c0ed11ec4631ea7dfe696cf7e4dad0",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/EDITION_FILES.json",
+      "size_bytes": 14869,
+      "sha256": "a4dd7487c0d54acd07050f5c5f1241b3b3c165e237d71a05f7c0ba2d1e70419c",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/HUMAN_ENTRY.md",
+      "size_bytes": 300,
+      "sha256": "684fc247c75e36fd38e23d9127e6fff432a8a66098f231628011ddc879cde2fd",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/NAMING_DRIFT_REPORT.md",
+      "size_bytes": 447,
+      "sha256": "b92a2488e78a6a52dfa28a0c85a48cc111d9f9c493442f7d86b8318bfeda3bd4",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/PUBLICATION_LOG.md",
+      "size_bytes": 325,
+      "sha256": "f59b1231f439a5df4bda2cf2beb365484fda98bc61a66c5c530b8a4ee0a4aef5",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/PUBLIC_PORTABILITY_PATCH_v1.0.2.md",
+      "size_bytes": 452,
+      "sha256": "c2a5f2a2e1686a5dc16adf282eb0a8af31f7cf087ff2db335767046847cabe3b",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/RELEASE_MATRIX_VOLUME_III.md",
+      "size_bytes": 2080,
+      "sha256": "145ff752102a4e1ee815fe2ab50329fba53da097bfe7dc52af17c7efa874631c",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/RELEASE_STATUS.json",
+      "size_bytes": 1560,
+      "sha256": "18e2898d88c5918056e17c48fdb6e70eadc3065b2f0753db98f0e3e39a2cdc3d",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
+    },
+    {
+      "path": "metadata/SCHEMA_NOTES.md",
+      "size_bytes": 1544,
+      "sha256": "9a423ec528463a13caaac27e5130f1ff1633a77fccebd458256a4ffa79255efa",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/SOURCE_PROVENANCE.md",
+      "size_bytes": 464,
+      "sha256": "8d8e728e0730f8269e9f94bec6c11f7438a87e0c65282fa3eb2084be4978e4ed",
+      "role": "supporting-metadata",
+      "media_type": "text/markdown"
+    },
+    {
+      "path": "metadata/TRILOGY_LINKS.json",
+      "size_bytes": 571,
+      "sha256": "63d78e52575cbeb6efeb3e6a985e0df1cf0a6a80f59e89ffbc9be1b9dd0ec193",
+      "role": "supporting-metadata",
+      "media_type": "application/json"
     }
   ],
   "volume_number": 3,
   "trilogy_order": 3,
-  "latest_release": "v1.0.1",
-  "previous_release": "v1.0.0",
-  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-  "release_date": "2026-05-03",
+  "latest_release": "v1.0.2",
+  "previous_release": "v1.0.1",
+  "patch_type": "rights and public metadata portability patch",
+  "release_date": "2026-07-22",
   "related_repositories": {
     "volume_i": "https://github.com/Kot141078/qubit-of-hope-volume-i",
     "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
     "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
   },
   "release": {
-    "latest_release": "v1.0.1",
-    "previous_release": "v1.0.0",
-    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
-    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0",
-    "release_date": "2026-05-03"
+    "latest_release": "v1.0.2",
+    "previous_release": "v1.0.1",
+    "patch_type": "rights and public metadata portability patch",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
+    "release_date": "2026-07-22"
   },
-  "rights_file": "RIGHTS.json"
+  "rights_file": "RIGHTS.json",
+  "source_location_status": "External local intake path removed for public portability",
+  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1."
 }

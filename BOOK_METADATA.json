@@ -39,16 +39,17 @@
   },
   "volume_number": 3,
   "trilogy_order": 3,
-  "latest_release": "v1.0.1",
-  "previous_release": "v1.0.0",
-  "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-  "release_date": "2026-05-03",
+  "latest_release": "v1.0.2",
+  "previous_release": "v1.0.1",
+  "patch_type": "rights and public metadata portability patch",
+  "release_date": "2026-07-22",
   "release": {
-    "latest_release": "v1.0.1",
-    "previous_release": "v1.0.0",
-    "patch_type": "metadata-only / navigation-only / trilogy bridge alignment",
-    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
-    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.0",
-    "release_date": "2026-05-03"
-  }
+    "latest_release": "v1.0.2",
+    "previous_release": "v1.0.1",
+    "patch_type": "rights and public metadata portability patch",
+    "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2",
+    "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
+    "release_date": "2026-07-22"
+  },
+  "release_statement": "v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1."
 }

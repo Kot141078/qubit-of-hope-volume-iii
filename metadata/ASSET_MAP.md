@@ -1,10 +1,10 @@
 # Asset Map
 
-Source root: `C:\Users\kotov\Desktop\AGI\Книга Кубит надежды\Третий том`
+Source location status: External local intake path removed for public portability.
 
 ## Cover
 
-- source: `C:/Users/kotov/Desktop/AGI/Книга Кубит надежды/Третий том/Cover/Image 3 мая 2026 г..png`
+- source filename: `Image 3 мая 2026 г..png` (external intake path removed for public portability)
 - repo: `covers/Image 3 мая 2026 г..png`
 - SHA-256: `96b5bcda1c4c094bdfc9f5376ea9b60201e29a2697d87d63f218cd5e9eb7266d`
 

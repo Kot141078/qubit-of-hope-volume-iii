@@ -8,13 +8,15 @@
 
 ## Release state
 
-Latest release: `v1.0.1`.
-Previous release: `v1.0.0`.
-Patch type: metadata-only / navigation-only / trilogy bridge alignment.
+Latest release: `v1.0.2`.
+Previous release: `v1.0.1`.
+Patch type: rights and public metadata portability patch.
 No reading edition files or cover assets were changed in this patch.
-Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1`
+Release URL: `https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2`
 
 This repository contains the public reading package for Volume III of Ivan Kotov's Qubit of Hope trilogy.
+
+v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
 ## Top-Level Files
 
@@ -62,11 +64,13 @@ This repository contains the public reading package for Volume III of Ivan Kotov
 
 ## Integrity Manifests
 
-- `hashes/SHA256SUMS.repo-all.txt`: all non-hash repository files, excluding `hashes/*` to avoid recursive hash instability.
-- `hashes/SHA256SUMS.repo-layout.txt`: mirrors `repo-all` in this repository, matching the Volume II convention where repo-layout and repo-all have the same content set.
-- `hashes/SHA256SUMS.metadata-only.txt`: root metadata/readme surfaces and `metadata/*` files.
-- `hashes/SHA256SUMS.source-tree.txt`: source provenance hashes using original local source paths, not repository paths.
+- `hashes/SHA256SUMS.repo-all.txt`: all non-checksum repository files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.repo-layout.txt`: all non-checksum repository files, using repository-relative paths and exact staged-byte SHA-256 values; mirrors repo-all according to the existing repository design.
+- `hashes/SHA256SUMS.metadata-only.txt`: legal, navigation, index, and metadata files, using exact staged-byte SHA-256 values.
+- `hashes/SHA256SUMS.source-tree.txt`: protected reading and cover assets, using repository-relative paths and exact staged-byte SHA-256 values.
 
 ## Rights
 
 All rights reserved. This repository is public for reading and personal local download only. It is not an open-license reuse surface.
+
+Rights files: `LICENSE.txt`, `NOTICE.txt`, `RIGHTS.json`, `AUDIOBOOK_RIGHTS.md`, `MEDIA_ADAPTATION_RIGHTS.md`.
