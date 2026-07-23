@@ -2,9 +2,20 @@
 
 ## Release v1.0.2
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21507089.svg)](https://doi.org/10.5281/zenodo.21507089)
+
 v1.0.2 is a rights and public-metadata portability patch. The literary reading editions are byte-identical to v1.0.1.
 
 Public reading repository for Volume III of Ivan Kotov's novel cycle "Qubit of Hope / Кубит надежды".
+
+- Current release: [v1.0.2](https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2)
+- Current-version DOI: [10.5281/zenodo.21507090](https://doi.org/10.5281/zenodo.21507090)
+- All-versions DOI: [10.5281/zenodo.21507089](https://doi.org/10.5281/zenodo.21507089)
+- Zenodo record: https://zenodo.org/records/21507090
+- Canonical website: https://ivankotov.eu/qubit-of-hope-volume-iii/
+- Licence: [All rights reserved](https://github.com/Kot141078/qubit-of-hope-volume-iii/blob/v1.0.2/LICENSE.txt)
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.
 
 ## Rights
 
@@ -41,9 +52,13 @@ See:
 
 ## Trilogy
 
-- Volume I: https://github.com/Kot141078/qubit-of-hope-volume-i
-- Volume II: https://github.com/Kot141078/qubit-of-hope-volume-ii
-- Volume III: https://github.com/Kot141078/qubit-of-hope-volume-iii
+Qubit of Hope trilogy:
+
+| Volume | Repository | All-versions DOI | Website |
+|---|---|---|---|
+| Volume I | [Repository](https://github.com/Kot141078/qubit-of-hope-volume-i) | [10.5281/zenodo.21505132](https://doi.org/10.5281/zenodo.21505132) | [Website](https://ivankotov.eu/qubit-of-hope/) |
+| Volume II | [Repository](https://github.com/Kot141078/qubit-of-hope-volume-ii) | [10.5281/zenodo.21506199](https://doi.org/10.5281/zenodo.21506199) | [Website](https://ivankotov.eu/qubit-of-hope-volume-ii/) |
+| Volume III | [Repository](https://github.com/Kot141078/qubit-of-hope-volume-iii) | [10.5281/zenodo.21507089](https://doi.org/10.5281/zenodo.21507089) | [Website](https://ivankotov.eu/qubit-of-hope-volume-iii/) |
 
 This is the third volume of the trilogy. The repository preserves the reading editions and the metadata needed to verify and navigate them.
 

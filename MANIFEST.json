@@ -1,9 +1,19 @@
 {
-  "generated_at": "2026-07-22",
+  "generated_at": "2026-07-23",
   "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii",
+  "version": "1.0.2",
+  "version_doi": "10.5281/zenodo.21507090",
+  "version_doi_url": "https://doi.org/10.5281/zenodo.21507090",
+  "concept_doi": "10.5281/zenodo.21507089",
+  "concept_doi_url": "https://doi.org/10.5281/zenodo.21507089",
+  "zenodo_url": "https://zenodo.org/records/21507090",
+  "canonical_website": "https://ivankotov.eu/qubit-of-hope-volume-iii/",
   "title": "Qubit of Hope — Volume III",
   "author": "Ivan Kotov",
   "rights": "All rights reserved",
+  "license_title": "All rights reserved",
+  "license_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/blob/v1.0.2/LICENSE.txt",
+  "post_deposit_note": "Post-deposit DOI synchronization. No literary text or cover artwork changed.",
   "note": "v1.0.2 portability manifest; MANIFEST.json is excluded from its own file list; hashes/* carry null hashes here to avoid recursion; integrity manifests use repository-relative paths and exact staged bytes.",
   "file_count_including_hash_manifests": 64,
   "files": [
@@ -23,22 +33,22 @@
     },
     {
       "path": "BOOK_METADATA.json",
-      "size_bytes": 1820,
-      "sha256": "bc4edfb7acb9f834c04fb4c953da1182dd8cddc43013443db83f128b8bb4e42b",
+      "size_bytes": 3401,
+      "sha256": "7ffc6ff36d6be4a7125bbfcae707da03bfe319941711ec9951ea0cba033472a3",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "CITATION.cff",
-      "size_bytes": 894,
-      "sha256": "a43346218b0b1c63e5f486735a0b4e1816da1067c5e3e7a96bfe1e9912ebfc4a",
+      "size_bytes": 1641,
+      "sha256": "b0dfa83472ee16ebf592a93519a33150a67d069ca17ff50ef9cf934452c5250e",
       "role": "human-or-entry-file",
       "media_type": "text/yaml"
     },
     {
       "path": "DOWNLOADS.md",
-      "size_bytes": 2536,
-      "sha256": "217a8f10d89cf85280b83bfe94c22b158d360033089269431aa73f322aa6ce41",
+      "size_bytes": 3033,
+      "sha256": "c8275770eade4a34c4793a05aa0843962950705874f5b4e3360054277e85c4d9",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -58,8 +68,8 @@
     },
     {
       "path": "MACHINE_ENTRY.md",
-      "size_bytes": 1412,
-      "sha256": "94c8eb36e9b6bd229f799e091efec239c496bac4f73bd8e628f6ac08fddedeb1",
+      "size_bytes": 2175,
+      "sha256": "7efdd7ef9198994881a337ae4113332220c328dd6f2813d3d8bc21218cd8d51a",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -79,29 +89,29 @@
     },
     {
       "path": "README.md",
-      "size_bytes": 4121,
-      "sha256": "2bc42ca92f3778e594ea64e614f61141365c6cb3dde05f0a5c3fec65cfab78fd",
+      "size_bytes": 5343,
+      "sha256": "0ae1027d6a7beffc3468a59eca8afa0754795bec1a633f2aac9e188241ba2604",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "RELEASE_STATUS.md",
-      "size_bytes": 984,
-      "sha256": "f14eec308aca92aa512252faeb3f4ba6469c23523293442d75dbc49517216e38",
+      "size_bytes": 1481,
+      "sha256": "4c627716e9a16c748698d8fa2db3a896f7b738eb87911521787027b64a7ea563",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
     {
       "path": "REPO_INDEX.json",
-      "size_bytes": 18160,
-      "sha256": "9b58e4e97d94a62468e046579847ffb82cdd1c240a2f1c6b9375a3c0cd7f610e",
+      "size_bytes": 19741,
+      "sha256": "7a5a74682703d8c040b78ecd467b933c40fbb2508b17e738b6e9ba361c414c32",
       "role": "machine-metadata",
       "media_type": "application/json"
     },
     {
       "path": "REPO_INDEX.md",
-      "size_bytes": 4770,
-      "sha256": "5820a475b95e1d8296f1dd34aa3bbe81b078877452672dd6dd5b40d108e8b914",
+      "size_bytes": 5456,
+      "sha256": "ff0276545d34182d63abfeb4a6977aba5e70131a339e4470e354c46aa389fbc9",
       "role": "human-or-entry-file",
       "media_type": "text/markdown"
     },
@@ -353,15 +363,15 @@
     },
     {
       "path": "llms-full.txt",
-      "size_bytes": 3293,
-      "sha256": "76e313108bd7db8b311d736a844e3fa62f78a83ce7237e01b8ebc4442faaa399",
+      "size_bytes": 4356,
+      "sha256": "77a0c38c3821cceb3204177dda5b5bb51964e2557341070a0dab0fb2d54c61f2",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
     {
       "path": "llms.txt",
-      "size_bytes": 1222,
-      "sha256": "efce6b914d06e40cb4b5a0696e9536a63e610fa6e5f2af8b87320909e6a314cf",
+      "size_bytes": 2024,
+      "sha256": "85d77d4b2a0ec713c940c5fe2ce3df8355d696303c020cc9b8342512b137fd9b",
       "role": "human-or-entry-file",
       "media_type": "text/plain"
     },
@@ -409,22 +419,22 @@
     },
     {
       "path": "metadata/PUBLICATION_LOG.md",
-      "size_bytes": 325,
-      "sha256": "f59b1231f439a5df4bda2cf2beb365484fda98bc61a66c5c530b8a4ee0a4aef5",
+      "size_bytes": 705,
+      "sha256": "48b0fce6a8297f64e854d72644b94515167672ab534ed98302d99536d52ca460",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/PUBLIC_PORTABILITY_PATCH_v1.0.2.md",
-      "size_bytes": 452,
-      "sha256": "c2a5f2a2e1686a5dc16adf282eb0a8af31f7cf087ff2db335767046847cabe3b",
+      "size_bytes": 661,
+      "sha256": "fb194c90f8ab5b6d8f297ce1c96f661b45f64a9fcd7be1bec7415173fa7ac3b4",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
     {
       "path": "metadata/RELEASE_MATRIX_VOLUME_III.md",
-      "size_bytes": 2080,
-      "sha256": "145ff752102a4e1ee815fe2ab50329fba53da097bfe7dc52af17c7efa874631c",
+      "size_bytes": 2522,
+      "sha256": "bdb9c568edf800ffc548c0cef8f96ae9a653b89cce280090b705daa58fd7279e",
       "role": "supporting-metadata",
       "media_type": "text/markdown"
     },
@@ -451,8 +461,8 @@
     },
     {
       "path": "metadata/TRILOGY_LINKS.json",
-      "size_bytes": 571,
-      "sha256": "63d78e52575cbeb6efeb3e6a985e0df1cf0a6a80f59e89ffbc9be1b9dd0ec193",
+      "size_bytes": 1295,
+      "sha256": "ae0df1bba37e8dd13f994606ff12dd45762af27a7fac04f70ce10d76f5bfcf88",
       "role": "supporting-metadata",
       "media_type": "application/json"
     }
@@ -462,19 +472,45 @@
   "latest_release": "v1.0.2",
   "previous_release": "v1.0.1",
   "patch_type": "rights and public metadata portability patch",
-  "release_date": "2026-07-22",
+  "release_date": "2026-07-23",
   "related_repositories": {
     "volume_i": "https://github.com/Kot141078/qubit-of-hope-volume-i",
     "volume_ii": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
     "volume_iii": "https://github.com/Kot141078/qubit-of-hope-volume-iii"
   },
+  "trilogy_navigation": [
+    {
+      "volume": 1,
+      "label": "Volume I",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-i",
+      "concept_doi": "10.5281/zenodo.21505132",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.21505132",
+      "website": "https://ivankotov.eu/qubit-of-hope/"
+    },
+    {
+      "volume": 2,
+      "label": "Volume II",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-ii",
+      "concept_doi": "10.5281/zenodo.21506199",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.21506199",
+      "website": "https://ivankotov.eu/qubit-of-hope-volume-ii/"
+    },
+    {
+      "volume": 3,
+      "label": "Volume III",
+      "repository": "https://github.com/Kot141078/qubit-of-hope-volume-iii",
+      "concept_doi": "10.5281/zenodo.21507089",
+      "concept_doi_url": "https://doi.org/10.5281/zenodo.21507089",
+      "website": "https://ivankotov.eu/qubit-of-hope-volume-iii/"
+    }
+  ],
   "release": {
     "latest_release": "v1.0.2",
     "previous_release": "v1.0.1",
     "patch_type": "rights and public metadata portability patch",
     "latest_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2",
     "previous_release_url": "https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.1",
-    "release_date": "2026-07-22"
+    "release_date": "2026-07-23"
   },
   "rights_file": "RIGHTS.json",
   "source_location_status": "External local intake path removed for public portability",

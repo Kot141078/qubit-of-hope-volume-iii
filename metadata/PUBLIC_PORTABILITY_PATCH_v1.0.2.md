@@ -7,6 +7,9 @@ Changes:
 - adds or finalizes explicit audiobook and media-adaptation rights;
 - removes machine-specific absolute filesystem paths from public metadata;
 - replaces local paths with repository-relative or hash-based provenance;
-- regenerates repository manifests and checksums.
+- regenerates repository manifests and checksums;
+- synchronizes the post-deposit current-version DOI, all-versions DOI, release, website, licence, and trilogy navigation metadata.
 
 The literary reading editions and cover assets are unchanged from v1.0.1.
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.

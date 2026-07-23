@@ -22,6 +22,8 @@ This is not open source, not Creative Commons, and not public domain.
 
 ## Related Volumes
 
-- Volume I: https://github.com/Kot141078/qubit-of-hope-volume-i
-- Volume II: https://github.com/Kot141078/qubit-of-hope-volume-ii
-- Volume III: https://github.com/Kot141078/qubit-of-hope-volume-iii
+| Volume | Repository | All-versions DOI | Website |
+|---|---|---|---|
+| Volume I | [Repository](https://github.com/Kot141078/qubit-of-hope-volume-i) | [10.5281/zenodo.21505132](https://doi.org/10.5281/zenodo.21505132) | [Website](https://ivankotov.eu/qubit-of-hope/) |
+| Volume II | [Repository](https://github.com/Kot141078/qubit-of-hope-volume-ii) | [10.5281/zenodo.21506199](https://doi.org/10.5281/zenodo.21506199) | [Website](https://ivankotov.eu/qubit-of-hope-volume-ii/) |
+| Volume III | [Repository](https://github.com/Kot141078/qubit-of-hope-volume-iii) | [10.5281/zenodo.21507089](https://doi.org/10.5281/zenodo.21507089) | [Website](https://ivankotov.eu/qubit-of-hope-volume-iii/) |

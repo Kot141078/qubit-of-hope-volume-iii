@@ -1,5 +1,15 @@
 # Release Matrix - Volume III
 
+- Release: `v1.0.2`
+- Release date: `2026-07-23`
+- Current-version DOI: `10.5281/zenodo.21507090`
+- All-versions DOI: `10.5281/zenodo.21507089`
+- Zenodo record: `https://zenodo.org/records/21507090`
+- GitHub Release: `https://github.com/Kot141078/qubit-of-hope-volume-iii/releases/tag/v1.0.2`
+- Canonical website: `https://ivankotov.eu/qubit-of-hope-volume-iii/`
+
+Post-deposit DOI synchronization. No literary text or cover artwork changed.
+
 All seven language bundles are complete across Markdown, PDF, EPUB, and FB2.
 
 | language | name | Markdown | PDF | EPUB | FB2 |

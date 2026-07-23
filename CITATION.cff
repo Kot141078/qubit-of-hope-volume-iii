@@ -1,15 +1,16 @@
 cff-version: 1.2.0
 message: "If you cite this public reading repository or the book editions it preserves, please cite the repository and name the author. All rights reserved."
 title: "Qubit of Hope — Volume III"
-type: book
 authors:
   - family-names: "Kotov"
     given-names: "Ivan"
     alias: "Ivan Kotov"
 repository-code: "https://github.com/Kot141078/qubit-of-hope-volume-iii"
-license: "All rights reserved"
+url: "https://ivankotov.eu/qubit-of-hope-volume-iii/"
+license-url: "https://github.com/Kot141078/qubit-of-hope-volume-iii/blob/v1.0.2/LICENSE.txt"
 abstract: >
   Public reading repository for Qubit of Hope — Volume III. This repository preserves multilingual reading editions in Russian, English, French, Spanish, German, Dutch, and Simplified Chinese, exposes them in reader and machine-readable layout, and remains all rights reserved.
+  Post-deposit DOI synchronization. No literary text or cover artwork changed.
 keywords:
   - Qubit of Hope
   - Volume III
@@ -18,5 +19,24 @@ keywords:
   - reading repository
   - preservation
   - trilogy
-version: "repository-assembly-2026-05-03"
-date-released: 2026-05-03
+version: "1.0.2"
+doi: "10.5281/zenodo.21507090"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.21507089"
+    description: "All-versions DOI for Qubit of Hope — Volume III"
+date-released: "2026-07-23"
+preferred-citation:
+  type: book
+  title: "Qubit of Hope — Volume III"
+  authors:
+    - family-names: "Kotov"
+      given-names: "Ivan"
+      alias: "Ivan Kotov"
+  publisher:
+    name: "Ivan Kotov"
+  version: "1.0.2"
+  doi: "10.5281/zenodo.21507090"
+  date-released: "2026-07-23"
+  url: "https://zenodo.org/records/21507090"
+  license-url: "https://github.com/Kot141078/qubit-of-hope-volume-iii/blob/v1.0.2/LICENSE.txt"
